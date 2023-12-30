@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😄 About Me
 
-I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [The Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/).
+I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [the Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/).
 
 Previously, in 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/).
 
