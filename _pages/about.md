@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 😄 About Me
+# 👀 About Me
 
 I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. I will be joining [the Ohio State University (OSU)](https://www.osu.edu/) as a Post Doctoral Researcher, working under the supervision of [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/).
 
@@ -20,9 +20,9 @@ My research interests include software engineering and software security. If you
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Here are my close friends' homepages: [Liu Wang](https://liuer-wang.github.io/), [Xiaoyu Sun](https://sunxiaobiu.github.io/), [Pei Liu](https://gspeiliu.github.io/), [Xinyi Hou](https://xinyi-hou.github.io/), [Shenao Wang](https://shenaow.github.io/), [Ningke Li](https://ningke-li.github.io/) ... &nbsp; <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60" /> 
 
 
-# 🔥 News
-- 2023.10: &nbsp;🎉🎉 Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
-- 2023.08: &nbsp;🎉🎉 Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
+# 🎁 News
+- 2023.10: Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
+- 2023.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
 
   
 # 📝 Publications 
@@ -120,7 +120,7 @@ My research interests include software engineering and software security. If you
 * PC Member -- MOBILESoft 2023, MOBILESoft 2024
  
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 * 2019 - Monash Graduate Scholarship (MGS). 
 * 2019 - City of Beijing "Triple-A" Outstanding Student. 
 * 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). 
