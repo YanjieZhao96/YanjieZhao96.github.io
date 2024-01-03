@@ -121,8 +121,9 @@ My research interests include software engineering and software security. If you
  
 
 # 🏆 Honors and Awards
-* 2019 - Monash Graduate Scholarship (MGS). 
-* 2019 - City of Beijing "Triple-A" Outstanding Student. 
+* 2019 - Monash Graduate Scholarship (MGS).
+* 2019 - Outstanding Graduate of Beijing City.
+* 2019 - Beijing City "Triple-A" Outstanding Student.
 * 2018 - Cyber Security Scholarship of China Internet Development Foundation (one of the 66 award-winning undergraduates nationwide). 
 * 2017 - China National Scholarship. 
 * 2017 - Meritorious Winner of MCM/ICM.
