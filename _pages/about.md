@@ -15,7 +15,7 @@ I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) i
 
 In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. 
 
-My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
+My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a> or <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a>.
 
 # 🎉 News
 - 2023.10: Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
