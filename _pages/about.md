@@ -26,6 +26,12 @@ My research interests include software engineering and software security. If you
 
 **(\* Equal Contribution)**
 
+* **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
+   <br>Xinyu She, Yue Liu, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, arXiv:2310.17903 [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
+
+* **Large Language Models for Software Engineering: A Systematic Literature Review**
+   <br>Xinyi Hou*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, arXiv:2308.10620 [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
+
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
     <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang, Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
 
