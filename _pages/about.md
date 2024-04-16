@@ -110,6 +110,7 @@ My research interests include software engineering and software security. If you
 * Continuously pursue knowledge and never cease learning...
 
 # 💼 Services
+* PC Member -- The 31st ACM Conference on Computer and Communications Security (CCS 2024 Artifact Evaluation)
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
 * Reviewer -- The Web Conference 2024 (WWW 2024)
 * Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
