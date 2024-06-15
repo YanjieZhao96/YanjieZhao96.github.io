@@ -26,6 +26,15 @@ My research interests include software engineering and software security. If you
 
 **(\* Equal Contribution)**
 
+* **LLM App Store Analysis: A Vision and Roadmap**
+  <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang, 2030 Software Engineering (SE2030), [[Paper](http://YanjieZhao96.github.io/files/zhao2024llm.pdf)]
+
+* **Large Language Model Supply Chain: A Research Agenda**
+  <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang, 2030 Software Engineering (SE2030), [[Paper](http://YanjieZhao96.github.io/files/wang2024large.pdf)]
+
+* **LLM for Mobile: An Initial Roadmap**
+  <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li, 2030 Software Engineering (SE2030), [[Paper](http://YanjieZhao96.github.io/files/chen2024llm.pdf)]
+
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
    <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
 
@@ -110,8 +119,10 @@ My research interests include software engineering and software security. If you
 * Continuously pursue knowledge and never cease learning...
 
 # 💼 Services
-* PC Member -- The 31st ACM Conference on Computer and Communications Security (CCS 2024 Artifact Evaluation)
+* PC Member -- The ACM International Conference on the Foundations of Software Engineering (FSE 2025)
+* PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2025)
 * PC Member -- The International Symposium on Software Testing and Analysis (ISSTA 2024)
+* PC Member -- The 31st ACM Conference on Computer and Communications Security (CCS 2024 Artifact Evaluation)
 * Reviewer -- The Web Conference 2024 (WWW 2024)
 * Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM)
 * Reviewer -- IEEE Transactions on Software Engineering (TSE)
