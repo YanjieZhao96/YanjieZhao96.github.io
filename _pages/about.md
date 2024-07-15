@@ -27,13 +27,13 @@ My research interests include software engineering and software security. If you
 **(\* Equal Contribution)**
 
 * **LLM App Store Analysis: A Vision and Roadmap**
-  <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang, 2030 Software Engineering (SE2030), [[Paper](https://arxiv.org/pdf/2404.12737)]
+  <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12737)]
 
 * **Large Language Model Supply Chain: A Research Agenda**
-  <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang, 2030 Software Engineering (SE2030), [[Paper](https://arxiv.org/pdf/2404.12736)]
+  <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12736)]
 
 * **LLM for Mobile: An Initial Roadmap**
-  <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li, 2030 Software Engineering (SE2030), [[Paper](http://YanjieZhao96.github.io/files/chen2024llm.pdf)]
+  <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li, 2030 Software Engineering (SE2030) [[Paper](http://YanjieZhao96.github.io/files/chen2024llm.pdf)]
 
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
    <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
