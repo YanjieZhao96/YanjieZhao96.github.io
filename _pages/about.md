@@ -26,6 +26,12 @@ My research interests include software engineering and software security. If you
 
 **(\* Equal Contribution)**
 
+* **WaDec: Decompile WebAssembly Using Large Language Model**
+  <br>Xinyu She, **Yanjie Zhao**, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024) [[Paper](https://arxiv.org/abs/2406.11346)]
+  
+* **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
+  <br>Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/abs/2405.15630)]
+  
 * **LLM App Store Analysis: A Vision and Roadmap**
   <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12737)]
 
