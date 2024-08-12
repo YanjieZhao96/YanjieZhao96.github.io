@@ -27,7 +27,7 @@ My research interests include software engineering and software security. If you
 **(\* Equal Contribution)**
 
 * **WaDec: Decompile WebAssembly Using Large Language Model**
-  <br>Xinyu She, **Yanjie Zhao**, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024) [[Paper](https://arxiv.org/abs/2406.11346)]
+  <br>Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024) [[Paper](https://arxiv.org/abs/2406.11346)]
   
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
   <br>Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/abs/2405.15630)]
@@ -45,7 +45,7 @@ My research interests include software engineering and software security. If you
    <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
-   <br>Xinyi Hou*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
+   <br>Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
 
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
     <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang, Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
@@ -58,7 +58,7 @@ My research interests include software engineering and software security. If you
 
 
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
-    <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu, The 38th IEEE/ACM International Conference on Automated Software Engineering, Industry Challenge Track (ASE 2023) [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
+    <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu, The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), Industry Challenge Track [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
 
   
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
@@ -93,7 +93,7 @@ My research interests include software engineering and software security. If you
 
 
 * **Code Implementation Recommendation for Android GUI Components**
-    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy, The 44th International Conference on Software Engineering, Demonstrations Track (ICSE 2022) [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]
+    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy, The 44th International Conference on Software Engineering (ICSE 2022), Demonstrations Track [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]
 
 
 * **Anchor: Locating Android Framework-specific Crashing Faults**
@@ -109,11 +109,11 @@ My research interests include software engineering and software security. If you
     
 
 * **AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community**
-    <br>Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy, The 2020 International Conference on Mining Software Repositories, Data Track (MSR 2020) [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
+    <br>Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy, The 2020 International Conference on Mining Software Repositories (MSR 2020), Data Track [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
     
 
 * **Knowledge Graphing Git Repositories: A Preliminary Study**
-    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy, IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA Track (SANER 2019) [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
+    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019), ERA Track [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
 
 
 
