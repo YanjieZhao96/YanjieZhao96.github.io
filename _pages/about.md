@@ -26,6 +26,7 @@ My research interests include software engineering and software security. If you
 
 **(\* Equal Contribution)**
 
+
 * **WaDec: Decompile WebAssembly Using Large Language Model**
   <br>Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024) [[Paper](https://arxiv.org/abs/2406.11346)]
   
@@ -45,7 +46,7 @@ My research interests include software engineering and software security. If you
    <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
-   <br>Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
+   <br>Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
 
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
     <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang, Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
