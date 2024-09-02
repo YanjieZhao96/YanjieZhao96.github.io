@@ -29,11 +29,11 @@ My research interests include software engineering and software security. If you
 ## <span style="color:grey">2024</span> 
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
-   <br>Xinyi Hou\*, **Yanjie Zhao\***, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
+   <br>Xinyi Hou\*, **Yanjie Zhao\***, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang<sup>#</sup>
    <br>***ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](https://arxiv.org/abs/2308.10620)]***
 
 * **WaDec: Decompiling WebAssembly Using Large Language Model**
-  <br>Xinyu She\*, **Yanjie Zhao\***, Haoyu Wang
+  <br>Xinyu She\*, **Yanjie Zhao\***, Haoyu Wang<sup>#</sup>
   <br>***ASE 2024 [[Paper](https://arxiv.org/abs/2406.11346)]***
   
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
@@ -41,19 +41,19 @@ My research interests include software engineering and software security. If you
   <br>***ASE 2024, Industry Track [[Paper]()]***
 
 * **Same App, Different Behaviors: Uncovering Device-specific Behaviors in Android Apps**
-  <br>Zikan Dong\*, **Yanjie Zhao\***, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, Haoyu Wang
+  <br>Zikan Dong\*, **Yanjie Zhao\***, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, Haoyu Wang<sup>#</sup>
   <br>***ASE 2024, Industry Track [[Paper](https://arxiv.org/abs/2406.09807)]***
 
 * **Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
-  <br>Xinyi Zheng, Chen Wei, Shenao Wang, **Yanjie Zhao**, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
+  <br>Xinyi Zheng\*, Chen Wei\*, Shenao Wang, **Yanjie Zhao**, Peiming Gao<sup>#</sup>, Yuanchao Zhang, Kailong Wang<sup>#</sup>, Haoyu Wang
   <br>***ASE 2024, Industry Track [[Paper]()]***
 
 * **A First Look at LLM-powered Smartphones**
-  <br>Liangxuan Wu\*, **Yanjie Zhao\***, Chao Wang, Tianming Liu, Haoyu Wang
+  <br>Liangxuan Wu\*, **Yanjie Zhao\***, Chao Wang, Tianming Liu, Haoyu Wang<sup>#</sup>
   <br>***A-Mobile 2024, co-located with ASE 2024 [[Paper]()]***
 
 * **Towards Demystifying Android Adware: Dataset and Payload Location**
-  <br>Chao Wang\*, Tianming Liu\*, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang
+  <br>Chao Wang\*, Tianming Liu\*, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang<sup>#</sup>
   <br>***A-Mobile 2024, co-located with ASE 2024 [[Paper]()]***
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
@@ -73,7 +73,7 @@ My research interests include software engineering and software security. If you
   <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/abs/2407.06573)]***
 
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
-  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang
+  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
   <br>*Preprint [[Paper](https://arxiv.org/abs/2310.17903)]*
 
 
@@ -124,7 +124,7 @@ My research interests include software engineering and software security. If you
     <br>***ASE 2022 [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]***
 
 * **A First Look at CI/CD Adoptions in Open-Source Android Apps**
-    <br>Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li, 
+    <br>Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li
     <br>***A-Mobile 2022, co-located with ASE 2022 [[Paper](http://YanjieZhao96.github.io/files/liu2022first.pdf)]***
 
 * **Code Implementation Recommendation for Android GUI Components**
