@@ -132,7 +132,7 @@ My research interests include software engineering and software security. If you
 
 * **Anchor: Locating Android Framework-specific Crashing Faults**
    <br>Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein
-   <br>**Automated Software Engineering Journal, 2021 [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]**
+   <br>**Automated Software Engineering Journal (JASE), 2021 [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]**
 
 * **On the Impact of Sample Duplication in Machine Learning based Android Malware Detection**
     <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, John Grundy
@@ -148,7 +148,7 @@ My research interests include software engineering and software security. If you
 
 * **Knowledge Graphing Git Repositories: A Preliminary Study**
     <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy
-    <br>**SANER 2019), ERA Track [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]**
+    <br>**SANER 2019, ERA Track [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]**
 
 
 
