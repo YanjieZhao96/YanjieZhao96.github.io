@@ -18,8 +18,8 @@ In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and T
 My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a> or <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a>.
 
 # 🎉 News
-- 2023.10: Our paper titled "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey" is available on [arXiv](https://arxiv.org/abs/2310.17903).
-- 2023.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" is available on [arXiv](https://arxiv.org/abs/2308.10620).
+
+- 2024.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" has been accepted by TOSEM!
 
   
 # 📝 Publications 
@@ -30,7 +30,7 @@ My research interests include software engineering and software security. If you
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
    <br>Xinyi Hou\*, **Yanjie Zhao\***, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
-   <br>***ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]***
+   <br>***ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](https://arxiv.org/abs/2308.10620)]***
 
 * **WaDec: Decompiling WebAssembly Using Large Language Model**
   <br>Xinyu She\*, **Yanjie Zhao\***, Haoyu Wang
@@ -62,29 +62,30 @@ My research interests include software engineering and software security. If you
   
 * **LLM App Store Analysis: A Vision and Roadmap**
   <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang
-  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12737)]***
+  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/abs/2404.12737)]***
 
 * **Large Language Model Supply Chain: A Research Agenda**
   <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang
-  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12736)]***
+  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/abs/2404.12736)]***
 
 * **LLM for Mobile: An Initial Roadmap**
   <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li
-  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2407.06573)]***
+  <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/abs/2407.06573)]***
 
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
-   <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
+  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, 
+  <br>*Preprint [[Paper](https://arxiv.org/abs/2310.17903)]*
 
 
 ## <span style="color:grey">2023</span> 
 
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
   <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang
-  <br>***Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]***
+  <br>***The 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]***
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
   <br>Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang
-  <br>***Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper]()]***
+  <br>***The 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper]()]***
 
 * **Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection**
   <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li
