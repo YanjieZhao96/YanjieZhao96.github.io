@@ -53,7 +53,7 @@ My research interests include software engineering and software security. If you
   <br>***A-Mobile 2024, co-located with ASE 2024 [[Paper]()]***
 
 * **Towards Demystifying Android Adware: Dataset and Payload Location**
-  <br>Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang
+  <br>Chao Wang\*, Tianming Liu\*, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang
   <br>***A-Mobile 2024, co-located with ASE 2024 [[Paper]()]***
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
@@ -73,7 +73,7 @@ My research interests include software engineering and software security. If you
   <br>***2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/abs/2407.06573)]***
 
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
-  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, 
+  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang
   <br>*Preprint [[Paper](https://arxiv.org/abs/2310.17903)]*
 
 
