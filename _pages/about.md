@@ -29,37 +29,48 @@ My research interests include software engineering and software security. If you
 ## <span style="color:grey">2024</span> 
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
-   <br>Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang, ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]
+   <br>Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, Haoyu Wang
+   <br>**ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 [[Paper](http://YanjieZhao96.github.io/files/hou2023large.pdf)]**
 
 * **WaDec: Decompiling WebAssembly Using Large Language Model**
-  <br>Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024) [[Paper](https://arxiv.org/abs/2406.11346)]
+  <br>Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang
+  <br>**ASE 2024 [[Paper](https://arxiv.org/abs/2406.11346)]**
   
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
-  <br>Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao**#, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei#, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Industry Track [[Paper]()]
+  <br>Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao**#, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei#, Haoyu Wang
+  <br>**ASE 2024, Industry Track [[Paper]()]**
 
 * **Same App, Different Behaviors: Uncovering Device-specific Behaviors in Android Apps**
-  <br>Zikan Dong\*, **Yanjie Zhao**\*, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Industry Track [[Paper](https://arxiv.org/abs/2406.09807)]
+  <br>Zikan Dong\*, **Yanjie Zhao**\*, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, Haoyu Wang
+  <br>**ASE 2024, Industry Track [[Paper](https://arxiv.org/abs/2406.09807)]**
 
 * **Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
-  <br>Xinyi Zheng, Chen Wei, Shenao Wang, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Industry Track [[Paper]()]
+  <br>Xinyi Zheng, Chen Wei, Shenao Wang, Yanjie Zhao, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang
+  <br>**ASE 2024, Industry Track [[Paper]()]**
 
 * **A First Look at LLM-powered Smartphones**
-  <br>Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, Haoyu Wang, A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]
+  <br>Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, Haoyu Wang
+  <br>**A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]**
 
 * **Towards Demystifying Android Adware: Dataset and Payload Location**
-  <br>Chao Wang, Tianming Liu, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang, A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]
+  <br>Chao Wang, Tianming Liu, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang
+  <br>**A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]**
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
-  <br>Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang, The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/abs/2405.15630)]
+  <br>Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang
+  <br>**ASE 2024, The New Ideas and Emerging Results (NIER) Track [[Paper](https://arxiv.org/abs/2405.15630)]**
   
 * **LLM App Store Analysis: A Vision and Roadmap**
-  <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12737)]
+  <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang
+  <br>**2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12737)]**
 
 * **Large Language Model Supply Chain: A Research Agenda**
-  <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12736)]
+  <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang
+  <br>**2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2404.12736)]**
 
 * **LLM for Mobile: An Initial Roadmap**
-  <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li, 2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2407.06573)]
+  <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li
+  <br>**2030 Software Engineering (SE2030) [[Paper](https://arxiv.org/pdf/2407.06573)]**
 
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
    <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang, Preprint [[Paper](http://YanjieZhao96.github.io/files/she2023pitfalls.pdf)]
@@ -68,71 +79,76 @@ My research interests include software engineering and software security. If you
 ## <span style="color:grey">2023</span> 
 
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
-    <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang, Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
+  <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang
+  <br>**Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]**
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
-    <br>Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang, Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper]()]
+  <br>Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang
+  <br>**Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps [[Paper]()]**
 
 * **Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection**
-    <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li, 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW) [[Paper]()]
+  <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li
+  <br>**A-Mobile 2023, Co-located with ASE 2023 [[Paper]()]**
 
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
-    <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu, The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), Industry Challenge Track [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
+  <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
+  <br>**ASE 2023, Industry Challenge Track [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]**
 
   
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
 
 
 * **Automatically Detecting Incompatible Android APIs**
-    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li, ACM Transactions on Software Engineering and Methodology (TOSEM), 2023 [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
-
+    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li
+    <br>**ACM Transactions on Software Engineering and Methodology (TOSEM), 2023 [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]**
 
 * **Are Mobile Advertisements in Compliance with App’s Age Group?**
-    <br>**Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li, The ACM Web Conference (WWW 2023) [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]
-
+    <br>**Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li
+    <br>**The ACM Web Conference (WWW 2023) [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]**
 
 * **Automatically Detecting API-induced Compatibility Issues in Android Apps: A Comparative Analysis (Replicability Study)**
-    <br>Pei Liu\*, **Yanjie Zhao**\*, Haipeng Cai, Mattia Fazzini, John Grundy, Li Li, The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022) [[Paper](http://YanjieZhao96.github.io/files/liu2022automatically.pdf)]
-
+    <br>Pei Liu\*, **Yanjie Zhao**\*, Haipeng Cai, Mattia Fazzini, John Grundy, Li Li
+    <br>**ISSTA 2022 [[Paper](http://YanjieZhao96.github.io/files/liu2022automatically.pdf)]**
 
 * **APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps**
-    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Qiang He, John Grundy, IEEE Transactions on Software Engineering (TSE), 2022 [[Paper](http://YanjieZhao96.github.io/files/zhao2022apimatchmaker.pdf)]
+    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Qiang He, John Grundy
+    <br>**IEEE Transactions on Software Engineering (TSE), 2022 [[Paper](http://YanjieZhao96.github.io/files/zhao2022apimatchmaker.pdf)]**
     
-
 * **Towards Automatically Repairing Compatibility Issues in Published Android Apps**
-    <br>**Yanjie Zhao**, Li Li, Kui Liu, John Grundy, The 44th International Conference on Software Engineering (ICSE 2022) [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf)]
-
-
-* **A First Look at CI/CD Adoptions in Open-Source Android Apps**
-    <br>Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li, The 5th International Workshop on Advances in Mobile App Analysis (A-Mobile 2022), co-located with ASE 2022 [[Paper](http://YanjieZhao96.github.io/files/liu2022first.pdf)]
-    
+    <br>**Yanjie Zhao**, Li Li, Kui Liu, John Grundy
+    <br>**ICSE 2022 [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf)]**
 
 * **Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues**
-    <br>Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li, The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]
+    <br>Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li
+    <br>**ASE 2022 [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]**
 
+* **A First Look at CI/CD Adoptions in Open-Source Android Apps**
+    <br>Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li, 
+    <br>**A-Mobile 2022, co-located with ASE 2022 [[Paper](http://YanjieZhao96.github.io/files/liu2022first.pdf)]**
 
 * **Code Implementation Recommendation for Android GUI Components**
-    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy, The 44th International Conference on Software Engineering (ICSE 2022), Demonstrations Track [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]
-
+    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
+    <br>**ICSE 2022, Demonstrations Track [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]**
 
 * **Anchor: Locating Android Framework-specific Crashing Faults**
-    <br>Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein, Automated Software Engineering Journal (AUSE), 2021 [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]
-
+   <br>Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein
+   <br>**Automated Software Engineering Journal, 2021 [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]**
 
 * **On the Impact of Sample Duplication in Machine Learning based Android Malware Detection**
-    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, John Grundy, ACM Transactions on Software Engineering and Methodology (TOSEM), 2021 [[Paper](http://YanjieZhao96.github.io/files/zhao2021impact.pdf)]
+    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, John Grundy
+    <br>**ACM Transactions on Software Engineering and Methodology (TOSEM), 2021 [[Paper](http://YanjieZhao96.github.io/files/zhao2021impact.pdf)]**
     
-
 * **Icon2Code: Recommending Code Implementations for Android GUI Components**
-    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy, Information and Software Technology (IST), 2021 [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]
+    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
+    <br>**Information and Software Technology (IST), 2021 [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]**
     
-
 * **AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community**
-    <br>Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy, The 2020 International Conference on Mining Software Repositories (MSR 2020), Data Track [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
-    
+    <br>Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy
+    <br>**MSR 2020, Data Track [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]**
 
 * **Knowledge Graphing Git Repositories: A Preliminary Study**
-    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy, IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019), ERA Track [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
+    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy
+    <br>**SANER 2019), ERA Track [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]**
 
 
 
