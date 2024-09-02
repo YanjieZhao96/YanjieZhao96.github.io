@@ -50,11 +50,11 @@ My research interests include software engineering and software security. If you
 
 * **A First Look at LLM-powered Smartphones**
   <br>Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, Haoyu Wang
-  <br>**A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]**
+  <br>**A-Mobile 2024, co-located with ASE 2024 [[Paper]()]**
 
 * **Towards Demystifying Android Adware: Dataset and Payload Location**
   <br>Chao Wang, Tianming Liu, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang
-  <br>**A-Mobile 2024, Co-located with ASE 2024 [[Paper]()]**
+  <br>**A-Mobile 2024, co-located with ASE 2024 [[Paper]()]**
 
 * **GPTZoo: A Large-scale Dataset of GPTs for the Research Community**
   <br>Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang
@@ -88,7 +88,7 @@ My research interests include software engineering and software security. If you
 
 * **Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection**
   <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li
-  <br>**A-Mobile 2023, Co-located with ASE 2023 [[Paper]()]**
+  <br>**A-Mobile 2023, co-located with ASE 2023 [[Paper]()]**
 
 * **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
   <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
