@@ -30,7 +30,7 @@ My research interests include software engineering and software security. If you
 
 * **Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs**
    <br>Chao Wang\*, **Yanjie Zhao\***, Jiapeng Deng, Haoyu Wang<sup>#</sup>
-   <br>***The 46th IEEE Symposium on Security and Privacy (Oakland 2025) [[Paper](https://arxiv.org/abs/2406.11346)]***
+   <br>***The 46th IEEE Symposium on Security and Privacy (Oakland 2025) [[Paper]()]***
 
 
 ## <span style="color:grey">2024</span> 
