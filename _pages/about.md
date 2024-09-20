@@ -45,7 +45,7 @@ My research interests include software engineering and software security. If you
   
 * **Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs**
   <br>Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao<sup>#</sup>**, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei<sup>#</sup>, Haoyu Wang
-  <br>***ASE 2024, Industry Track [[Paper]()]***
+  <br>***ASE 2024, Industry Track [[Paper](https://arxiv.org/abs/2409.09368)]***
 
 * **Same App, Different Behaviors: Uncovering Device-specific Behaviors in Android Apps**
   <br>Zikan Dong\*, **Yanjie Zhao\***, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, Haoyu Wang<sup>#</sup>
@@ -53,7 +53,7 @@ My research interests include software engineering and software security. If you
 
 * **Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments**
   <br>Xinyi Zheng\*, Chen Wei\*, Shenao Wang, **Yanjie Zhao**, Peiming Gao<sup>#</sup>, Yuanchao Zhang, Kailong Wang<sup>#</sup>, Haoyu Wang
-  <br>***ASE 2024, Industry Track [[Paper]()]***
+  <br>***ASE 2024, Industry Track [[Paper](https://arxiv.org/abs/2409.09356)]***
 
 * **A First Look at LLM-powered Smartphones**
   <br>Liangxuan Wu\*, **Yanjie Zhao\***, Chao Wang, Tianming Liu, Haoyu Wang<sup>#</sup>
