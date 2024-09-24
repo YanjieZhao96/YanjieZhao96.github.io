@@ -13,7 +13,7 @@ redirect_from:
 
 I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) in March 2024, and my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
 
-In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), under the guidance of [Prof. Haoyu Wang](https://howiepku.github.io/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. John Grundy](https://sites.google.com/site/johncgrundy/) and [Prof. Li Li](http://lilicoding.github.io/). I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. 
+In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. Li Li](http://lilicoding.github.io/) and [Prof. John Grundy](https://sites.google.com/site/johncgrundy/). I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. 
 
 My research interests include software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a> or <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a>.
 
