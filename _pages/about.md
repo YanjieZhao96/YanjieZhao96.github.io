@@ -69,11 +69,11 @@ My research interests include software engineering and software security. If you
   
 * **LLM App Store Analysis: A Vision and Roadmap**
   <br>**Yanjie Zhao**, Xinyi Hou, Shenao Wang, Haoyu Wang
-  <br>*2030 Software Engineering (SE2030)* [[Paper](https://arxiv.org/abs/2404.12737)]
+  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2024* [[Paper](https://arxiv.org/abs/2404.12737)]
 
 * **Large Language Model Supply Chain: A Research Agenda**
   <br>Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Haoyu Wang
-  <br>*2030 Software Engineering (SE2030)* [[Paper](https://arxiv.org/abs/2404.12736)]
+ <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2024* [[Paper](https://arxiv.org/abs/2404.12736)]
 
 * **LLM for Mobile: An Initial Roadmap**
   <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li
