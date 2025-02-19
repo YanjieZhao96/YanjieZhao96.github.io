@@ -194,6 +194,7 @@ My research focuses on applications of Large Language Models in software enginee
 # 💼 Services
 * PC Member -- FSE 2025, ISSTA 2025, WWW 2025, ISSTA 2024, WWW 2024, APSEC 2024, ASE NIER 2024, CCS 2024 Artifact Evaluation, MOBILESoft 2024, MOBILESoft 2023 
 * Journal Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), ACM Computing Surveys (CSUR), Empirical Software Engineering (EMSE), Journal of Systems and Software (JSS), IEEE Transactions on Reliability
+* Workshop Organizer -- [LLMapp 2025](https://llmappworkshop.github.io/) (co-located with FSE 2025), [LLMSC 2025](https://llmsc.github.io/) (co-located with ISSTA 2025)
 * Publicity Chair -- MOBILESoft 2023
  
 
