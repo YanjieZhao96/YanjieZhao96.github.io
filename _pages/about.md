@@ -30,6 +30,9 @@ My research focuses on applications of Large Language Models in software enginee
 
 ## <span style="color:grey">2025</span> 
 
+* **On the (In)Security of LLM App Stores**
+   <br>Xinyi Hou\*, **Yanjie Zhao\***, Haoyu Wang<sup>#</sup>
+   <br>*The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)* [[Paper]()]
 * **Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs**
    <br>Chao Wang\*, **Yanjie Zhao\***, Jiapeng Deng, Haoyu Wang<sup>#</sup>
    <br>*The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)* [[Paper]()]
