@@ -41,16 +41,15 @@ My research focuses on applications of Large Language Models in software enginee
    <br>*USENIX Security 2025* [[Paper](https://arxiv.org/abs/2409.06348)]
 * **DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation**
    <br>Ting Zhou\*, **Yanjie Zhao\***, Xinyi Hou, Xiaoyu Sun, Kai Chen<sup>#</sup>, Haoyu Wang<sup>#</sup>
-   <br>*FSE 2025* [[Paper](https://arxiv.org/abs/2409.11667)]
+* **CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph**
+   <br>Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang
+   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] **<span style="color:#c00">🏆Best Paper Award**</span>
 * **LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance**
    <br>Chenxu Wang\*, Tianming Liu\*, **Yanjie Zhao**, Minghui Yang, Haoyu Wang<sup>#</sup>
    <br>*FSE 2025* [[Paper]()]
 * **Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection**
    <br>Haodong Li, Xiao Cheng, **Yanjie Zhao**, Guosheng Xu, Guoai Xu, Haoyu Wang
    <br>*ISSTA 2025* [[Paper]()]
-* **CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph**
-   <br>Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang
-   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)]
 * **CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**
    <br>Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
