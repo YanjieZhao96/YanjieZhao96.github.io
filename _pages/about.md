@@ -44,7 +44,7 @@ My research focuses on applications of Large Language Models in software enginee
    <br>*FSE 2025* [[Paper](https://arxiv.org/abs/2409.11667)]
 * **CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph**
    <br>Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang
-   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆**Best Paper Award**</span>
+   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆 **Best Paper Award**</span>
 * **LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance**
    <br>Chenxu Wang\*, Tianming Liu\*, **Yanjie Zhao**, Minghui Yang, Haoyu Wang<sup>#</sup>
    <br>*FSE 2025* [[Paper]()]
