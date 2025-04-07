@@ -60,6 +60,30 @@ My research focuses on applications of Large Language Models in software enginee
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
    <br>Qiang Ke\*, Xinyi Hou\*, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
+* **GPT Store Mining and Analysis** 
+    <br>Dongxun Su\*, **Yanjie Zhao\***, Xinyi Hou, Shenao Wang, Haoyu Wang
+    <br>*Internetware 2025* [[Paper](https://arxiv.org/pdf/2405.10210)]
+* **LLM App Squatting and Cloning** 
+    <br>Yinglin Xie\*, Xinyi Hou\*, **Yanjie Zhao**, Kai Chen, Haoyu Wang
+    <br>*FSE 2025, Industry Track* [[Paper]()]
+* **Are iOS Apps Immune to Abusive Advertising Practices?**
+    <br>Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang
+    <br>*FSE 2025, Industry Track* [[Paper]()]
+* **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** 
+    <br>Xinyi Hou\*, **Yanjie Zhao\***, Haoyu Wang
+    <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper](https://arxiv.org/pdf/2503.04596)]
+* **Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead**
+    <br>Hongzhou Rao\*, **Yanjie Zhao\***, Xinyi Hou, Shenao Wang, Haoyu Wang
+    <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper]()]
+* **Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030** 
+    <br>Shenao Wang, **Yanjie Zhao**, Yinglin Xie, Zhao Liu, Xinyi Hou, Quanchen Zou, Haoyu Wang
+    <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper](https://arxiv.org/pdf/2502.20812)]
+* **Towards Secure and Reliable Mobile AI Agents: Visions for Future Research**
+    <br>Chao Wang, Wei Dai, **Yanjie Zhao**, Liangxuan Wu, Haoyu Wang
+    <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper]()]
+* **Mobile App Analysis in the New Era: Challenges and the Road Ahead**
+    <br>Jiale Wu, **Yanjie Zhao**, Tianming Liu, Haoyu Wang
+    <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper]()]
   
 
 ## <span style="color:grey">2024</span> 
