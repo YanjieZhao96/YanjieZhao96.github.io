@@ -132,6 +132,10 @@ My research focuses on applications of Large Language Models in software enginee
   <br>Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, Li Li
   <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2024* [[Paper](https://arxiv.org/abs/2407.06573)]
 
+* **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle** 
+    <br>Liangxuan Wu, **Yanjie Zhao**, Xinyi Hou, Tianming Liu, Haoyu Wang
+    <br>*MSR 2024, Mining Challenge Track* [[Paper](https://ieeexplore.ieee.org/document/10555800)]
+
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
   <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
   <br>*Preprint* [[Paper](https://arxiv.org/abs/2310.17903)]*
