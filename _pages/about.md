@@ -63,15 +63,24 @@ My research focuses on applications of Large Language Models in software enginee
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
    <br>Qiang Ke\*, Xinyi Hou\*, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
-* **GPT Store Mining and Analysis** 
-    <br>Dongxun Su\*, **Yanjie Zhao\***, Xinyi Hou, Shenao Wang, Haoyu Wang
-    <br>*Internetware 2025* [[Paper](https://arxiv.org/pdf/2405.10210)]
 * **LLM App Squatting and Cloning** 
     <br>Yinglin Xie\*, Xinyi Hou\*, **Yanjie Zhao**, Kai Chen, Haoyu Wang
     <br>*FSE 2025, Industry Track* [[Paper]()]
 * **Are iOS Apps Immune to Abusive Advertising Practices?**
     <br>Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang
     <br>*FSE 2025, Industry Track* [[Paper]()]
+* **GPT Store Mining and Analysis** 
+    <br>Dongxun Su\*, **Yanjie Zhao\***, Xinyi Hou, Shenao Wang, Haoyu Wang
+    <br>*Internetware 2025* [[Paper](https://arxiv.org/pdf/2405.10210)]
+* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** 
+    <br>Xinyi Hou\*, **Yanjie Zhao\***, Haoyu Wang
+    <br>*Internetware 2025* [[Paper](https://arxiv.org/abs/2408.01687)]
+* **Exploring Typo Squatting Threats in the Hugging Face Ecosystem** 
+    <br>Ningyuan Li, **Yanjie Zhao**, Shenao Wang, Zehao Wu, Haoyu Wang
+    <br>*Internetware 2025* [[Paper]()]
+* **Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks** 
+    <br>Wangchenlu Huang, Shenao Wang, **Yanjie Zhao**, Tianxiang Wang, Yuhao Gao, Guosheng Xu, Haoyu Wang
+    <br>*Internetware 2025* [[Paper]()]
 * **The Next Frontier of LLM Applications: Open Ecosystems and Hardware Synergy** 
     <br>Xinyi Hou\*, **Yanjie Zhao\***, Haoyu Wang
     <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper](https://arxiv.org/pdf/2503.04596)]
