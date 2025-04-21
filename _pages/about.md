@@ -156,21 +156,53 @@ My research focuses on applications of Large Language Models in software enginee
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
 
 
-* **Automatically Detecting Incompatible Android APIs**
-    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2023* [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
-
 * **Are Mobile Advertisements in Compliance with App’s Age Group?**
     <br>**Yanjie Zhao\***, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li
     <br>*WWW 2023* [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]
 
-* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
-  <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
-  <br>*ASE 2023, Industry Challenge Track* [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
+* **Towards Automatically Repairing Compatibility Issues in Published Android Apps**
+    <br>**Yanjie Zhao**, Li Li, Kui Liu, John Grundy
+    <br>*ICSE 2022* [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf)]
+  
+* **APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps**
+    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Qiang He, John Grundy
+    <br>*IEEE Transactions on Software Engineering (TSE), 2022* [[Paper](http://YanjieZhao96.github.io/files/zhao2022apimatchmaker.pdf)]
+    
+* **Automatically Detecting API-induced Compatibility Issues in Android Apps: A Comparative Analysis (Replicability Study)**
+    <br>Pei Liu\*, **Yanjie Zhao\***, Haipeng Cai, Mattia Fazzini, John Grundy, Li Li
+    <br>*ISSTA 2022* [[Paper](http://YanjieZhao96.github.io/files/liu2022automatically.pdf)]
 
+* **On the Impact of Sample Duplication in Machine Learning based Android Malware Detection**
+    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, John Grundy
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2021* [[Paper](http://YanjieZhao96.github.io/files/zhao2021impact.pdf)]
+  
+* **Icon2Code: Recommending Code Implementations for Android GUI Components**
+    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
+    <br>*Information and Software Technology (IST), 2021* [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]
+  
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
   <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang
   <br>*The 2023 ACM Workshop on Secure and Trustworthy Superapps* [[Paper](http://YanjieZhao96.github.io/files/zhao2023potential.pdf)]
+
+* **Knowledge Graphing Git Repositories: A Preliminary Study**
+    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy
+    <br>*SANER 2019, ERA Track* [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
+
+* **Code Implementation Recommendation for Android GUI Components**
+    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
+    <br>*ICSE 2022, Demonstrations Track* [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]
+
+* **Automatically Detecting Incompatible Android APIs**
+    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2023* [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
+
+* **Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues**
+    <br>Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li
+    <br>*ASE 2022* [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]
+  
+* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
+  <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
+  <br>*ASE 2023, Industry Challenge Track* [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
 
 * **On the Usage-scenario-based Data Minimization in Mini Programs**
   <br>Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang
@@ -180,50 +212,17 @@ My research focuses on applications of Large Language Models in software enginee
   <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li
   <br>*A-Mobile 2023, co-located with ASE 2023* [[Paper]()]
 
-* **Automatically Detecting API-induced Compatibility Issues in Android Apps: A Comparative Analysis (Replicability Study)**
-    <br>Pei Liu\*, **Yanjie Zhao\***, Haipeng Cai, Mattia Fazzini, John Grundy, Li Li
-    <br>*ISSTA 2022* [[Paper](http://YanjieZhao96.github.io/files/liu2022automatically.pdf)]
-
-* **APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps**
-    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Qiang He, John Grundy
-    <br>*IEEE Transactions on Software Engineering (TSE), 2022* [[Paper](http://YanjieZhao96.github.io/files/zhao2022apimatchmaker.pdf)]
-    
-* **Towards Automatically Repairing Compatibility Issues in Published Android Apps**
-    <br>**Yanjie Zhao**, Li Li, Kui Liu, John Grundy
-    <br>*ICSE 2022* [[Paper](http://YanjieZhao96.github.io/files/zhao2022towards.pdf)]
-
-* **Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues**
-    <br>Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li
-    <br>*ASE 2022* [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]
-
 * **A First Look at CI/CD Adoptions in Open-Source Android Apps**
     <br>Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li
     <br>*A-Mobile 2022, co-located with ASE 2022* [[Paper](http://YanjieZhao96.github.io/files/liu2022first.pdf)]
 
-* **Code Implementation Recommendation for Android GUI Components**
-    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
-    <br>*ICSE 2022, Demonstrations Track* [[Paper](http://YanjieZhao96.github.io/files/zhao2022code.pdf)]
-
 * **Anchor: Locating Android Framework-specific Crashing Faults**
    <br>Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein
    <br>*Automated Software Engineering Journal (JASE), 2021* [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]
-
-* **On the Impact of Sample Duplication in Machine Learning based Android Malware Detection**
-    <br>**Yanjie Zhao**, Li Li, Haoyu Wang, Haipeng Cai, Tegawendé F. Bissyandé, Jacques Klein, John Grundy
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2021* [[Paper](http://YanjieZhao96.github.io/files/zhao2021impact.pdf)]
-    
-* **Icon2Code: Recommending Code Implementations for Android GUI Components**
-    <br>**Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy
-    <br>*Information and Software Technology (IST), 2021* [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]
     
 * **AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community**
     <br>Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy
     <br>*MSR 2020, Data Track* [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
-
-* **Knowledge Graphing Git Repositories: A Preliminary Study**
-    <br>**Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy
-    <br>*SANER 2019, ERA Track* [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
-
 
 
 # 📖 Educations
