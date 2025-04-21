@@ -153,7 +153,20 @@ My research focuses on applications of Large Language Models in software enginee
   <br>*Preprint* [[Paper](https://arxiv.org/abs/2310.17903)]*
 
 
-## <span style="color:grey">2023</span> 
+## <span style="color:grey">Papers Published During PhD Studies</span> 
+
+
+* **Automatically Detecting Incompatible Android APIs**
+    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li
+    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2023* [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
+
+* **Are Mobile Advertisements in Compliance with App’s Age Group?**
+    <br>**Yanjie Zhao\***, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li
+    <br>*WWW 2023* [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]
+
+* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
+  <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
+  <br>*ASE 2023, Industry Challenge Track* [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
 
 * **Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins**
   <br>**Yanjie Zhao**, Yue Zhang, Haoyu Wang
@@ -166,22 +179,6 @@ My research focuses on applications of Large Language Models in software enginee
 * **Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection**
   <br>Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li
   <br>*A-Mobile 2023, co-located with ASE 2023* [[Paper]()]
-
-* **CiD4HMOS: A Solution to HarmonyOS Compatibility Issues**
-  <br>Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu
-  <br>*ASE 2023, Industry Challenge Track* [[Paper](http://YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
-
-  
-## <span style="color:grey">Papers Published During PhD Studies</span> 
-
-
-* **Automatically Detecting Incompatible Android APIs**
-    <br>Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li
-    <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2023* [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
-
-* **Are Mobile Advertisements in Compliance with App’s Age Group?**
-    <br>**Yanjie Zhao\***, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li
-    <br>*WWW 2023* [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]
 
 * **Automatically Detecting API-induced Compatibility Issues in Android Apps: A Comparative Analysis (Replicability Study)**
     <br>Pei Liu\*, **Yanjie Zhao\***, Haipeng Cai, Mattia Fazzini, John Grundy, Li Li
