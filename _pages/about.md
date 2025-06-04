@@ -72,11 +72,8 @@ My research focuses on applications of Large Language Models in software enginee
 * **GPT Store Mining and Analysis** 
     <br>Dongxun Su\*, **Yanjie Zhao\***, Xinyi Hou, Shenao Wang, Haoyu Wang
     <br>*Internetware 2025* [[Paper](https://arxiv.org/pdf/2405.10210)]
-* **Voices from the Frontier: A Comprehensive Analysis of the OpenAI Developer Forum** 
-    <br>Xinyi Hou\*, **Yanjie Zhao\***, Haoyu Wang
-    <br>*Internetware 2025* [[Paper](https://arxiv.org/abs/2408.01687)]
 * **Exploring Typo Squatting Threats in the Hugging Face Ecosystem** 
-    <br>Ningyuan Li, **Yanjie Zhao**, Shenao Wang, Zehao Wu, Haoyu Wang
+    <br>Ningyuan Li, **Yanjie Zhao<sup>#</sup>**, Shenao Wang, Zehao Wu, Haoyu Wang<sup>#</sup>
     <br>*Internetware 2025* [[Paper]()]
 * **Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks** 
     <br>Wangchenlu Huang, Shenao Wang, **Yanjie Zhao**, Tianxiang Wang, Yuhao Gao, Guosheng Xu, Haoyu Wang
