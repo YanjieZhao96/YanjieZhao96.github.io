@@ -28,6 +28,12 @@ My research focuses on applications of Large Language Models in software enginee
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
+## <span style="color:grey">2026</span> 
+
+* **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses**
+    <br>Zhihao Lin, Wei Ma, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, Li Li
+    <br>*ICSE 2026* [[Paper]()]
+
 ## <span style="color:grey">2025</span> 
 
 * **On the (In)Security of LLM App Stores**
@@ -93,8 +99,10 @@ My research focuses on applications of Large Language Models in software enginee
 * **Mobile App Analysis in the New Era: Challenges and the Road Ahead**
     <br>Jiale Wu, **Yanjie Zhao**, Tianming Liu, Haoyu Wang
     <br>*2030 Software Engineering Workshop, co-located with FSE 2025* [[Paper]()]
+* **AI Model Genome**
+    <br>**Yanjie Zhao**, Haoyu Wang<sup>#</sup>
+    <br>*The 1st Workshop on Software Genomics (SWGeno'25), co-located with FSE 2025* [[Paper]()]
   
-
 ## <span style="color:grey">2024</span> 
 
 * **Large Language Models for Software Engineering: A Systematic Literature Review**
