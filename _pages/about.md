@@ -60,6 +60,9 @@ My research focuses on applications of Large Language Models in software enginee
 * **Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection**
    <br>Haodong Li, Xiao Cheng, **Yanjie Zhao**, Guosheng Xu, Guoai Xu, Haoyu Wang
    <br>*ISSTA 2025* [[Paper]()]
+* **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
+  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
+  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2025* [[Paper](https://arxiv.org/abs/2310.17903)]*
 * **CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**
    <br>Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
@@ -152,10 +155,6 @@ My research focuses on applications of Large Language Models in software enginee
 * **ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle** 
     <br>Liangxuan Wu, **Yanjie Zhao**, Xinyi Hou, Tianming Liu, Haoyu Wang
     <br>*MSR 2024, Mining Challenge Track* [[Paper](https://ieeexplore.ieee.org/document/10555800)]
-
-* **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
-  <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
-  <br>*Preprint* [[Paper](https://arxiv.org/abs/2310.17903)]*
 
 
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
