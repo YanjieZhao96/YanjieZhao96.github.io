@@ -62,7 +62,7 @@ My research focuses on applications of Large Language Models in software enginee
    <br>*ISSTA 2025* [[Paper]()]
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
   <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
-  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2025* [[Paper](https://arxiv.org/abs/2310.17903)]*
+  <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2025* [[Paper](https://arxiv.org/abs/2310.17903)]
 * **CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**
    <br>Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
