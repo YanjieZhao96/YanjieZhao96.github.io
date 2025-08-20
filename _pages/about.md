@@ -49,9 +49,6 @@ My research focuses on applications of Large Language Models in software enginee
 * **Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android**
    <br>Sheng Cao, Hao Zhou, Songzhou Shi, **Yanjie Zhao**, Haoyu Wang
    <br>*CCS 2025* [[Paper]()]
-* **CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph**
-   <br>Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang
-   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆 **Best Paper Award**</span>
 * **TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification**
     <br>Zehao Wu\*, **Yanjie Zhao\***, Haoyu Wang
     <br>*ASE 2025* [[Paper](https://arxiv.org/abs/2506.01631)]
@@ -73,6 +70,9 @@ My research focuses on applications of Large Language Models in software enginee
 * **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**
   <br>Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang<sup>#</sup>
   <br>*ACM Transactions on Software Engineering and Methodology (TOSEM), 2025* [[Paper](https://arxiv.org/abs/2310.17903)]
+* **CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph**
+   <br>Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang
+   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆 **Best Paper Award**</span>
 * **CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**
    <br>Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
