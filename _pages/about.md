@@ -75,16 +75,16 @@ My research focuses on applications of Large Language Models in software enginee
    <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆 **Best Paper Award**</span>
 * **CodeMorph: Mitigating Data Leakage in Large Language Model Assessment**
    <br>Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu Wang
-   <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
+   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2506.17627)]
 * **CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**
    <br>Zhaonan Wu, **Yanjie Zhao<sup>#</sup>**, Chen Wei<sup>#</sup>, Zirui Wan, Yue Liu, Haoyu Wang
    <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://arxiv.org/abs/2501.03626)]
 * **ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking**
    <br>Qiang Ke\*, Xinyi Hou\*, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang
-   <br>*ICSE 2025, Industry Challenge Track* [[Paper]()]
+   <br>*ICSE 2025, Industry Challenge Track* [[Paper](https://ieeexplore.ieee.org/document/11024443/)]
 * **LLM App Squatting and Cloning** 
     <br>Yinglin Xie\*, Xinyi Hou\*, **Yanjie Zhao**, Kai Chen, Haoyu Wang
-    <br>*FSE 2025, Industry Track* [[Paper]()]
+    <br>*FSE 2025, Industry Track* [[Paper](https://arxiv.org/abs/2411.07518)]
 * **Are iOS Apps Immune to Abusive Advertising Practices?**
     <br>Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang
     <br>*FSE 2025, Industry Track* [[Paper]()]
