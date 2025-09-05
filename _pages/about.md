@@ -18,11 +18,11 @@ In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and T
 My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and System Security. I am dedicated to building intelligent tools that automate and secure the software lifecycle, particularly addressing the security and fragmentation challenges in today's cross-platform and cross-language ecosystems. **My ultimate goal is to create a more unified, efficient, and secure software development paradigm.**
 If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
+
 # 🎉 News
 
 - 🔝 **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [@ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
 - 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
-- 2024.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" has been accepted by TOSEM!
 
 
 # 📌 Selected Publications
@@ -172,12 +172,14 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, and John Grundy. "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community." *MSR 2020, Data Track*. [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
 
+
 # 📚 Educations
 
 * 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
 * 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
 * 2019.09 - 2023.09, Ph.D., Monash University, Melbourne, Australia.
 * Continuously pursue knowledge and never cease learning...
+
 
 # 💼 Services
 * PC Member -- FSE 2026, APSEC 2025 ERA Track, APSEC 2025 SEIP Track, ASE 2025, FSE 2025, ISSTA 2025, WWW 2025, IWQoS 2025, ISSTA 2024, WWW 2024, APSEC 2024, ASE NIER 2024, CCS 2024 Artifact Evaluation, MOBILESoft 2024, MOBILESoft 2023 
