@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# ✨ About Me
+# 🎀 About Me
 
 I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) in March 2024, and my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
 
@@ -18,14 +18,14 @@ In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and T
 My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and System Security. I am dedicated to building intelligent tools that automate and secure the software lifecycle, particularly addressing the security and fragmentation challenges in today's cross-platform and cross-language ecosystems. **My ultimate goal is to create a more unified, efficient, and secure software development paradigm.**
 If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
-# 🎉 News
+# 🎈 News
 
 - 🔝 **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [@ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
 - 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 - 2024.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" has been accepted by TOSEM!
 
 
-# 📌 Selected Publications
+# 🎯 Selected Publications
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
@@ -37,7 +37,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **[Declarative UI Gen]** Ting Zhou\*, **Yanjie Zhao**\*, et al. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*.
 
-- **[LLM for Fuzzing]** Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏆 **Best Paper Award**</span>
+- **[LLM for Fuzzing]** Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏅 **Best Paper Award**</span>
 
 - **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
 
@@ -84,7 +84,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, and Haoyu Wang<sup>#</sup>. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
 
-- Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏆 **Best Paper Award**</span>
+- Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏅 **Best Paper Award**</span>
 
 - Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, and Haoyu Wang. "CodeMorph: Mitigating Data Leakage in Large Language Model Assessment." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2506.17627)]
 
@@ -176,7 +176,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, and John Grundy. "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community." *MSR 2020, Data Track*. [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
 
-# 📖 Educations
+# 📚 Educations
 
 * 2015.09 - 2019.06, B.Eng., Beĳing University of Posts and Telecommunications, Beijing, China.
 * 2019.07 - 2019.09, Visitor, University of Luxembourg, Luxembourg.
@@ -198,17 +198,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 * 2017 - China National Scholarship. 
 * 2017 - Meritorious Winner of MCM/ICM.
 * 2017 - First Prize in Beĳing Contest District in CUMCM. 
-* 2017 - Second Prize in China National Cryptography Competition. 
+* 2017 - Second Prize in the China National Cryptography Competition. 
 * 2016 - China National Scholarship.
- 
 
-# 💻 Skills
-* Reading, writing, and speaking competencies in Mandarin Chinese and English.
-* Academic research, teaching, training, consultation, LATEX typesetting, and publishing.
-* Leisure Interests:
-  * Adobe Photoshop
-  * Adobe Premiere
-  * Adobe After Effects
 
 <img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
