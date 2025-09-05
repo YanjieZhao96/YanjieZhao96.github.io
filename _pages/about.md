@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 🦋 About Me
+# 🎃 About Me
 
 I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) in March 2024, and my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
 
@@ -25,13 +25,11 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - 2024.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" has been accepted by TOSEM!
 
 
-# 📍 Selected Publications
+# 📌 Selected Publications
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
-## Direction 1: AI for SE & Security
-
-*This research focuses on leveraging Artificial Intelligence to automate and enhance traditional software engineering and security tasks.*
+## <span style="color:grey">Direction 1: AI for SE & Security</span>
 
 - **[LLM4SE Survey]** Xinyi Hou\*, **Yanjie Zhao**\*, et al. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2024. <span style="color:#c00">🚀 **1k+ Citations**</span>
 
@@ -41,9 +39,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
 
-## Direction 2: SE & Security for AI Systems
-
-*This research addresses the novel security, safety, and engineering challenges inherent in AI models and AI-powered systems.*
+## <span style="color:grey">Direction 2: SE & Security for AI Systems</span>
 
 - **[LLM App Store Security]** Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025.
 
