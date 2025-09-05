@@ -107,3 +107,40 @@ h1:before, .anchor:before {
     background-color: #a800a8;
     font-size: .8em;
 }
+
+/* ========== Custom Purple Theme by Gemini ========== */
+
+/* 1. 全局字体和背景颜色 */
+body {
+    color: #333333; /* 更柔和的黑色正文 */
+    font-family: 'Lato', sans-serif; /* 引入更现代的字体 (下一步会讲) */
+    background-color: #ffffff; /* 保持主背景为白色 */
+}
+
+/* 2. 链接颜色 - 这是最重要的部分！ */
+a {
+    color: #5856d6; /* 你的主色 */
+    text-decoration: none; /* 去掉默认下划线 */
+    transition: color 0.2s ease-in-out; /* 平滑的颜色过渡效果 */
+}
+
+a:hover, a:focus {
+    color: #7a78e8; /* 鼠标悬停时的颜色 */
+    text-decoration: underline; /* 悬停时显示下划线 */
+}
+
+/* 3. 标题颜色 - 建立视觉层次 */
+h1, h2, h3, h4, h5, h6 {
+    color: #3D3B8E; /* 深紫色标题 */
+}
+
+/* 4. 水平分割线美化 */
+hr {
+    border-top: 1px solid #e8e8e8;
+}
+
+/* 5. 导航栏和页脚的链接样式 (如果适用) */
+#main .page-header, #main .page-footer {
+    border-top: 1px solid #e8e8e8;
+    border-bottom: 1px solid #e8e8e8;
+}
