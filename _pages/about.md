@@ -53,9 +53,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - **[LLM Supply Chain Security]** Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
 
   
-# 📑 Full Publications
-
-# 📝 Publications 
+# 📝 Full Publications
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
