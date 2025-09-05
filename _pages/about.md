@@ -28,7 +28,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 # ✍️ Selected Publications
 
-*(\* Equal Contribution, <sup>#</sup> Corresponding Author)*
+***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
 
 ## Direction 1: AI for SE & Security
 
