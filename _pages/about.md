@@ -15,13 +15,42 @@ I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) i
 
 In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. Li Li](http://lilicoding.github.io/) and [Prof. John Grundy](https://sites.google.com/site/johncgrundy/). I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. 
 
-My research focuses on applications of Large Language Models in software engineering and software security. If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
+My research focuses on the intersection of Large Language Models (LLMs), Software Engineering, and System Security. I am dedicated to building a new generation of intelligent tools to automate and secure the entire software lifecycle. Furthermore, I address the challenges of software fragmentation through cross-platform and cross-language technologies, aiming to create a more unified and efficient software ecosystem.
+
+If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
 # 🎉 News
 
 - 🔝 **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [@ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
 - 🔝 **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 - 2024.08: Our paper titled "Large Language Models for Software Engineering: A Systematic Literature Review" has been accepted by TOSEM!
+
+
+# ✍️ Selected Publications
+
+*(\* Equal Contribution, <sup>#</sup> Corresponding Author)*
+
+## Direction 1: AI for SE & Security
+
+*This research focuses on leveraging Artificial Intelligence to automate and enhance traditional software engineering and security tasks.*
+
+- **[LLM4SE Survey]** Xinyi Hou\*, **Yanjie Zhao**\*, et al. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2024.
+
+- **[Declarative UI Gen]** Ting Zhou\*, **Yanjie Zhao**\*, Xinyi Hou, Xiaoyu Sun, Kai Chen<sup>#</sup>, and Haoyu Wang<sup>#</sup>. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*.
+
+- **[LLM for Fuzzing]** Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. 🏆 **Best Paper Award**
+
+- **[WASM Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
+
+## Direction 2: SE & Security for AI Systems
+
+*This research addresses the novel security, safety, and engineering challenges inherent in AI models and AI-powered systems.*
+
+- **[LLM App Store Security]** Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025.
+
+- **[LLM Fingerprinting]** Zehao Wu\*, **Yanjie Zhao**\*, and Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*.
+
+- **[LLM Supply Chain Security]** Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
 
   
 # 📝 Publications 
