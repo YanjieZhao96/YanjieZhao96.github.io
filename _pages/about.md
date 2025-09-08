@@ -15,7 +15,7 @@ I joined [Huazhong University of Science and Technology](https://hust.edu.cn/) i
 
 In 2019, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). Subsequently, I commenced my doctoral studies at [Monash University](https://www.monash.edu/), where I had the privilege of being supervised by [Prof. Li Li](http://lilicoding.github.io/) and [Prof. John Grundy](https://sites.google.com/site/johncgrundy/). I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023. 
 
-My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and System Security. I am dedicated to building intelligent tools that automate and secure the software lifecycle, particularly addressing the security and fragmentation challenges in today's cross-platform and cross-language ecosystems. **My ultimate goal is to create a more unified, efficient, and secure software development paradigm.**
+My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and Software Security. I am dedicated to building intelligent tools that automate and secure the software lifecycle, particularly addressing the security and fragmentation challenges in today's cross-platform and cross-language ecosystems. **My ultimate goal is to create a more unified, efficient, and secure software development paradigm.**
 If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
 
