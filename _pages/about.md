@@ -64,6 +64,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Ziwei Yan\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "VoiceWukong: Benchmarking Deepfake Voice Detection." *USENIX Security 2025*. [[Paper](https://arxiv.org/abs/2409.06348)]
 
+- John Y. Kim, Chaoshun Zuo, **Yanjie Zhao**, and Zhiqiang Lin. "AutoVR: Automated UI Exploration for Detecting Sensitive Data Flow Exposures in Virtual Reality Apps." *USENIX Security 2025*. [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/kim-john)]
+
 - Sheng Cao, Hao Zhou, Songzhou Shi, **Yanjie Zhao**, and Haoyu Wang. "Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android." *CCS 2025*. [[Paper]()]
 
 - Zehao Wu\*, **Yanjie Zhao**\*, and Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*. [[Paper](https://arxiv.org/abs/2506.01631)]
