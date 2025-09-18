@@ -88,6 +88,12 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Qiang Ke\*, Xinyi Hou\*, **Yanjie Zhao<sup>#</sup>**, and Haoyu Wang. "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking." *ICSE 2025, Industry Challenge Track*. [[Paper](https://ieeexplore.ieee.org/document/11024443/)]
 
+- Jiale Wu\*, Jiapeng Deng\*, **Yanjie Zhao<sup>#</sup>**, Li Li, and Haoyu Wang. "HarmoBridge: Bridging ArkTS and C/C++ for Cross-Language Static Analysis on HarmonyOS." *ASE 2025, Industry Showcase Track*. [[Paper]()]
+
+- Jiayang Liu\*, **Yanjie Zhao**\*, Pengcheng Xia, and Haoyu Wang. "ApkArmor: Low-Cost Lightweight Anti-Decompilation Techniques for Android Apps." *ASE 2025, Industry Showcase Track*. [[Paper]()]
+
+- Ziluo Xue\*, **Yanjie Zhao**\*, Shenao Wang, Kai Chen and Haoyu Wang. "A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks." *ASE 2025, Industry Showcase Track*. [[Paper]()]
+
 - Yinglin Xie\*, Xinyi Hou\*, **Yanjie Zhao**, Kai Chen, and Haoyu Wang. "LLM App Squatting and Cloning." *FSE 2025, Industry Track*. [[Paper](https://arxiv.org/abs/2411.07518)]
 
 - Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, and Haoyu Wang. "Are iOS Apps Immune to Abusive Advertising Practices?" *FSE 2025, Industry Track*. [[Paper]()]
