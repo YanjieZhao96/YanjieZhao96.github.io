@@ -100,6 +100,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, and Haoyu Wang. "Are iOS Apps Immune to Abusive Advertising Practices?" *FSE 2025, Industry Track*. [[Paper]()]
 
+- Hanxiang Xu, Shenao Wang, Ningke Li, Kailong Wang, **Yanjie Zhao**, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang. "Large Language Models for Cyber Security: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2405.04760)]
+
 - Dongxun Su\*, **Yanjie Zhao**\*, Xinyi Hou, Shenao Wang, and Haoyu Wang. "GPT Store Mining and Analysis." *Internetware 2025*. [[Paper](https://arxiv.org/pdf/2405.10210)]
 
 - Ningyuan Li, **Yanjie Zhao<sup>#</sup>**, Shenao Wang, Zehao Wu, and Haoyu Wang<sup>#</sup>. "Exploring Typo Squatting Threats in the Hugging Face Ecosystem." *Internetware 2025*. [[Paper]()]
