@@ -54,9 +54,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2026</span> 
 
-- Shenao Wang*, Zhao Liu*, **Yanjie Zhao**, Quanchen Zou, Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. [[Paper]()]
+- Shenao Wang\*, Zhao Liu\*, **Yanjie Zhao**, Quanchen Zou, Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. [[Paper]()]
 
-- Junjie He*, Shenao Wang*, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications."  *ICSE 2026*. [[Paper]()]
+- Junjie He\*, Shenao Wang\*, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications."  *ICSE 2026*. [[Paper]()]
 
 - Zhihao Lin, Wei Ma, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, and Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
 
