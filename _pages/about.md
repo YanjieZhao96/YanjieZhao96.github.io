@@ -84,6 +84,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Haodong Li, Xiao Cheng, **Yanjie Zhao**, Guosheng Xu, Guoai Xu, and Haoyu Wang. "Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection." *ISSTA 2025*. [[Paper]()]
 
+- Xinyi Hou, Yanjie Zhao, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **200+ Citations**</span>
+
 - Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, and Haoyu Wang<sup>#</sup>. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
 
 - Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏅 **Best Paper Award**</span>
@@ -128,7 +130,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2024</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang<sup>#</sup>. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)]
+- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang<sup>#</sup>. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1k+ Citations**</span>
 
 - Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*. [[Paper](https://arxiv.org/abs/2406.11346)]
 
