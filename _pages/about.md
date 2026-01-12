@@ -54,6 +54,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2026</span> 
 
+- Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
+
 - Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
 
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, and Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
