@@ -117,6 +117,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Dianshu Liao, Shidong Pan, Siyuan Yang, **Yanjie Zhao**, Zhenchang Xing, Xiaoyu Sun. "A Comparative Study of Android Performance Issues in Real-world Applications and Literature." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2407.05090)]
 
+- Liu Wang, Shenao Wang, Xinyi Hou, Jian Zhao, Rongxin Wu, Qiao Xiang, **Yanjie Zhao**, Yi Wang. "大语言模型存储机制安全风险综述." *计算机研究与发展, 2025 (CCF-A)*. [[Paper]()]
+
 - Dongxun Su\*, **Yanjie Zhao**\*, Xinyi Hou, Shenao Wang, and Haoyu Wang. "GPT Store Mining and Analysis." *Internetware 2025*. [[Paper](https://arxiv.org/pdf/2405.10210)]
 
 - Ningyuan Li, **Yanjie Zhao<sup>#</sup>**, Shenao Wang, Zehao Wu, and Haoyu Wang<sup>#</sup>. "Exploring Typo Squatting Threats in the Hugging Face Ecosystem." *Internetware 2025*. [[Paper]()]
