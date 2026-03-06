@@ -15,7 +15,8 @@ I completed my PhD at [Monash University](https://www.monash.edu/) in September 
 
 In March 2024, I joined [Huazhong University of Science and Technology](https://hust.edu.cn/), where my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
 
-My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and Software Security. I am dedicated to building intelligent tools that automate and secure the software lifecycle, particularly addressing the security and fragmentation challenges in today's cross-platform and cross-language ecosystems. **My ultimate goal is to create a more unified, efficient, and secure software development paradigm.**
+My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and Software Security, with a focus on building intelligent tools that automate and secure the software lifecycle **across today's fragmented cross-platform and cross-language ecosystems**. I am particularly interested in **Neuro-symbolic AI** as a principled approach to advancing SE and security. My ultimate goal is to create a more unified, efficient, and secure software development paradigm.
+
 If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
 
 
