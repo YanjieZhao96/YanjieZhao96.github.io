@@ -58,7 +58,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Qiang Ke, **Yanjie Zhao<sup>#</sup>**, Hongjin Leng, Shengming Zhao, and Haoyu Wang. "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks." *FSE 2026*. [[Paper]()]
 
-- Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
+- Yayi Wang, Shenao Wang, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng, Lizhong Bian, Kan Yu, **Yanjie Zhao**, and Haoyu Wang. "YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group." *FSE 2026, Industry Track*. [[Paper]()]
 
 - Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
 
@@ -68,7 +68,11 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Zhihao Lin\*, Wei Ma\*, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, and Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
 
+- Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
+
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, and Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
+
+- Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, and Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper]()]
 
 ## <span style="color:grey">2025</span> 
 
