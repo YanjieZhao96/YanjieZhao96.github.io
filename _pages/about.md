@@ -148,6 +148,12 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang<sup>#</sup>. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1.6k+ Citations**</span>
 
+- **Yanjie Zhao**, Xinyi Hou, Shenao Wang, and Haoyu Wang. "LLM App Store Analysis: A Vision and Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12737)]
+
+- Shenao Wang, **Yanjie Zhao**, Xinyi Hou, and Haoyu Wang. "Large Language Model Supply Chain: A Research Agenda." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12736)]
+
+- Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, and Li Li. "LLM for Mobile: An Initial Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2407.06573)]
+
 - Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*. [[Paper](https://arxiv.org/abs/2406.11346)]
 
 - Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao<sup>#</sup>**, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei<sup>#</sup>, and Haoyu Wang. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09368)]
@@ -161,12 +167,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - Chao Wang\*, Tianming Liu\*, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, and Haoyu Wang<sup>#</sup>. "Towards Demystifying Android Adware: Dataset and Payload Location." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
 
 - Xinyi Hou, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "GPTZoo: A Large-scale Dataset of GPTs for the Research Community." *ASE 2024, The New Ideas and Emerging Results (NIER) Track*. [[Paper](https://arxiv.org/abs/2405.15630)]
-
-- **Yanjie Zhao**, Xinyi Hou, Shenao Wang, and Haoyu Wang. "LLM App Store Analysis: A Vision and Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12737)]
-
-- Shenao Wang, **Yanjie Zhao**, Xinyi Hou, and Haoyu Wang. "Large Language Model Supply Chain: A Research Agenda." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12736)]
-
-- Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, and Li Li. "LLM for Mobile: An Initial Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2407.06573)]
 
 - Liangxuan Wu, **Yanjie Zhao**, Xinyi Hou, Tianming Liu, and Haoyu Wang. "ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle." *MSR 2024, Mining Challenge Track*. [[Paper](https://ieeexplore.ieee.org/document/10555800)]
 
