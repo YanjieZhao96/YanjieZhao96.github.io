@@ -37,7 +37,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **[Declarative UI Gen]** Ting Zhou\*, **Yanjie Zhao**\*, et al. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*.
 
-- **[LLM for Fuzzing]** Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
+- **[LLM for Fuzzing]** Hanxiang Xu, Wei Ma, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
 
 - **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
 
@@ -47,7 +47,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **[LLM Fingerprinting]** Zehao Wu\*, **Yanjie Zhao**\*, and Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*.
 
-- **[LLM Supply Chain Security]** Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
+- **[LLM Supply Chain Security]** Jian Zhao, Shenao Wang, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
 
   
 # 📝 Full Publications
@@ -62,11 +62,11 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
 
-- Shenao Wang\*, Zhao Liu\*, **Yanjie Zhao**, Quanchen Zou, and Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. [[Paper]()]
+- Shenao Wang, Zhao Liu, **Yanjie Zhao**, Quanchen Zou, and Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. [[Paper]()]
 
-- Junjie He\*, Shenao Wang\*, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, and Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications."  *ICSE 2026*. [[Paper]()]
+- Junjie He, Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, and Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications."  *ICSE 2026*. [[Paper]()]
 
-- Zhihao Lin\*, Wei Ma\*, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, and Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
+- Zhihao Lin, Wei Ma, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, and Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
 
 - Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
 
@@ -76,11 +76,11 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2025</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper](https://arxiv.org/abs/2407.08422)]
+- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper](https://arxiv.org/abs/2407.08422)]
 
-- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang<sup>#</sup>. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper]()]
+- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper]()]
 
-- Ziwei Yan\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "VoiceWukong: Benchmarking Deepfake Voice Detection." *USENIX Security 2025*. [[Paper](https://arxiv.org/abs/2409.06348)]
+- Ziwei Yan\*, **Yanjie Zhao**\*, and Haoyu Wang. "VoiceWukong: Benchmarking Deepfake Voice Detection." *USENIX Security 2025*. [[Paper](https://arxiv.org/abs/2409.06348)]
 
 - John Y. Kim, Chaoshun Zuo, **Yanjie Zhao**, and Zhiqiang Lin. "AutoVR: Automated UI Exploration for Detecting Sensitive Data Flow Exposures in Virtual Reality Apps." *USENIX Security 2025*. [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/kim-john)]
 
@@ -90,9 +90,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Miao Zhang, Shenao Wang, Guilin Zheng, **Yanjie Zhao**, and Haoyu Wang. "Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems." *ASE 2025*. [[Paper]()]
 
-- Ting Zhou\*, **Yanjie Zhao**\*, Xinyi Hou, Xiaoyu Sun, Kai Chen<sup>#</sup>, and Haoyu Wang<sup>#</sup>. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*. [[Paper](https://arxiv.org/abs/2409.11667)]
+- Ting Zhou\*, **Yanjie Zhao**\*, Xinyi Hou, Xiaoyu Sun, Kai Chen, and Haoyu Wang. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*. [[Paper](https://arxiv.org/abs/2409.11667)]
 
-- Chenxu Wang\*, Tianming Liu\*, **Yanjie Zhao**, Minghui Yang, and Haoyu Wang<sup>#</sup>. "LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance." *FSE 2025*. [[Paper]()]
+- Chenxu Wang, Tianming Liu, **Yanjie Zhao**, Minghui Yang, and Haoyu Wang. "LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance." *FSE 2025*. [[Paper]()]
 
 - Jiapeng Deng, Tianming Liu, **Yanjie Zhao**, Chao Wang, Lin Zhang, and Haoyu Wang. "Walls Have Ears: Demystifying Notification Listener Usage in Android Apps." *ISSTA 2025*. [[Paper]()]
 
@@ -100,23 +100,23 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **500+ Citations**</span>
 
-- Xinyu She\*, Yue Liu\*, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, and Haoyu Wang<sup>#</sup>. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
+- Xinyu She, Yue Liu, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, and Haoyu Wang. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
 
-- Hanxiang Xu\*, Wei Ma\*, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
+- Hanxiang Xu, Wei Ma, Ting Zhou, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Qiang Hu, Yang Liu, and Haoyu Wang. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2411.11532)] <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
 
 - Hongzhou Rao, **Yanjie Zhao<sup>#</sup>**, Wenjie Zhu, Ling Xiao, Meizhen Wang, and Haoyu Wang. "CodeMorph: Mitigating Data Leakage in Large Language Model Assessment." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2506.17627)]
 
 - Zhaonan Wu, **Yanjie Zhao<sup>#</sup>**, Chen Wei<sup>#</sup>, Zirui Wan, Yue Liu, and Haoyu Wang. "CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems." *ICSE 2025, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2501.03626)]
 
-- Qiang Ke\*, Xinyi Hou\*, **Yanjie Zhao<sup>#</sup>**, and Haoyu Wang. "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking." *ICSE 2025, Industry Challenge Track*. [[Paper](https://ieeexplore.ieee.org/document/11024443/)]
+- Qiang Ke, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, and Haoyu Wang. "ClauseBench: Enhancing Software License Analysis with Clause-Level Benchmarking." *ICSE 2025, Industry Challenge Track*. [[Paper](https://ieeexplore.ieee.org/document/11024443/)]
 
-- Jiale Wu\*, Jiapeng Deng\*, **Yanjie Zhao<sup>#</sup>**, Li Li, and Haoyu Wang. "HarmoBridge: Bridging ArkTS and C/C++ for Cross-Language Static Analysis on HarmonyOS." *ASE 2025, Industry Showcase Track*. [[Paper]()]
+- Jiale Wu, Jiapeng Deng, **Yanjie Zhao<sup>#</sup>**, Li Li, and Haoyu Wang. "HarmoBridge: Bridging ArkTS and C/C++ for Cross-Language Static Analysis on HarmonyOS." *ASE 2025, Industry Showcase Track*. [[Paper]()]
 
 - Jiayang Liu\*, **Yanjie Zhao**\*, Pengcheng Xia, and Haoyu Wang. "ApkArmor: Low-Cost Lightweight Anti-Decompilation Techniques for Android Apps." *ASE 2025, Industry Showcase Track*. [[Paper]()]
 
 - Ziluo Xue\*, **Yanjie Zhao**\*, Shenao Wang, Kai Chen and Haoyu Wang. "A Characterization Study of Bugs in LLM Agent Workflow Orchestration Frameworks." *ASE 2025, Industry Showcase Track*. [[Paper]()]
 
-- Yinglin Xie\*, Xinyi Hou\*, **Yanjie Zhao**, Kai Chen, and Haoyu Wang. "LLM App Squatting and Cloning." *FSE 2025, Industry Track*. [[Paper](https://arxiv.org/abs/2411.07518)]
+- Yinglin Xie, Xinyi Hou, **Yanjie Zhao**, Kai Chen, and Haoyu Wang. "LLM App Squatting and Cloning." *FSE 2025, Industry Track*. [[Paper](https://arxiv.org/abs/2411.07518)]
 
 - Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, and Haoyu Wang. "Are iOS Apps Immune to Abusive Advertising Practices?" *FSE 2025, Industry Track*. [[Paper]()]
 
@@ -142,11 +142,11 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Jiale Wu, **Yanjie Zhao**, Tianming Liu, and Haoyu Wang. "Mobile App Analysis in the New Era: Challenges and the Road Ahead." *2030 Software Engineering Workshop, co-located with FSE 2025*. [[Paper]()]
 
-- **Yanjie Zhao** and Haoyu Wang<sup>#</sup>. "AI Model Genome." *The 1st Workshop on Software Genomics (SWGeno'25), co-located with FSE 2025*. [[Paper]()]
+- **Yanjie Zhao** and Haoyu Wang. "AI Model Genome." *The 1st Workshop on Software Genomics (SWGeno'25), co-located with FSE 2025*. [[Paper]()]
 
 ## <span style="color:grey">2024</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang<sup>#</sup>. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1.7k+ Citations**</span>
+- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1.7k+ Citations**</span>
 
 - **Yanjie Zhao**, Xinyi Hou, Shenao Wang, and Haoyu Wang. "LLM App Store Analysis: A Vision and Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12737)]
 
@@ -154,17 +154,17 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Daihang Chen, Yonghui Liu, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Shuai Wang, Xiao Chen, Tegawendé F. Bissyandé, Jacques Klein, and Li Li. "LLM for Mobile: An Initial Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2407.06573)]
 
-- Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang<sup>#</sup>. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*. [[Paper](https://arxiv.org/abs/2406.11346)]
+- Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*. [[Paper](https://arxiv.org/abs/2406.11346)]
 
-- Jian Zhao\*, Shenao Wang\*, **Yanjie Zhao<sup>#</sup>**, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei<sup>#</sup>, and Haoyu Wang. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09368)]
+- Jian Zhao, Shenao Wang, **Yanjie Zhao<sup>#</sup>**, Xinyi Hou, Kailong Wang, Peiming Gao, Yuanchao Zhang, Chen Wei<sup>#</sup>, and Haoyu Wang. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09368)]
 
-- Zikan Dong\*, **Yanjie Zhao**\*, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, and Haoyu Wang<sup>#</sup>. "Same App, Different Behaviors: Uncovering Device-specific Behaviors in Android Apps." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2406.09807)]
+- Zikan Dong\*, **Yanjie Zhao**\*, Tianming Liu, Chao Wang, Guosheng Xu, Guoai Xu, Lin Zhang, and Haoyu Wang. "Same App, Different Behaviors: Uncovering Device-specific Behaviors in Android Apps." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2406.09807)]
 
-- Xinyi Zheng\*, Chen Wei\*, Shenao Wang, **Yanjie Zhao**, Peiming Gao<sup>#</sup>, Yuanchao Zhang, Kailong Wang<sup>#</sup>, and Haoyu Wang. "Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09356)]
+- Xinyi Zheng, Chen Wei, Shenao Wang, **Yanjie Zhao**, Peiming Gao, Yuanchao Zhang, Kailong Wang, and Haoyu Wang. "Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09356)]
 
-- Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, and Haoyu Wang<sup>#</sup>. "A First Look at LLM-powered Smartphones." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
+- Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, and Haoyu Wang. "A First Look at LLM-powered Smartphones." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
 
-- Chao Wang\*, Tianming Liu\*, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, and Haoyu Wang<sup>#</sup>. "Towards Demystifying Android Adware: Dataset and Payload Location." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
+- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, and Haoyu Wang. "Towards Demystifying Android Adware: Dataset and Payload Location." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
 
 - Xinyi Hou, **Yanjie Zhao**, Shenao Wang, and Haoyu Wang. "GPTZoo: A Large-scale Dataset of GPTs for the Research Community." *ASE 2024, The New Ideas and Emerging Results (NIER) Track*. [[Paper](https://arxiv.org/abs/2405.15630)]
 
