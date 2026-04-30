@@ -56,7 +56,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2026</span> 
 
-- **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *CCS 2026*. [[Paper]()]
+- **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *ACM CCS 2026*. [[Paper]()]
 
 - Qiang Ke, **Yanjie Zhao<sup>#</sup>**, Hongjin Leng, Shengming Zhao, and Haoyu Wang. "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks." *FSE 2026*. [[Paper]()]
 
@@ -78,15 +78,15 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2025</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *S&P 2025*. [[Paper](https://arxiv.org/abs/2407.08422)]
+- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (Oakland'25)*. [[Paper](https://arxiv.org/abs/2407.08422)]
 
-- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *S&P 2025*. [[Paper]()]
+- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *The 46th IEEE Symposium on Security and Privacy (Oakland'25)*. [[Paper]()]
 
 - Ziwei Yan\*, **Yanjie Zhao**\*, and Haoyu Wang. "VoiceWukong: Benchmarking Deepfake Voice Detection." *USENIX Security 2025*. [[Paper](https://arxiv.org/abs/2409.06348)]
 
 - John Y. Kim, Chaoshun Zuo, **Yanjie Zhao**, and Zhiqiang Lin. "AutoVR: Automated UI Exploration for Detecting Sensitive Data Flow Exposures in Virtual Reality Apps." *USENIX Security 2025*. [[Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/kim-john)]
 
-- Sheng Cao, Hao Zhou, Songzhou Shi, **Yanjie Zhao**, and Haoyu Wang. "Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android." *CCS 2025*. [[Paper]()]
+- Sheng Cao, Hao Zhou, Songzhou Shi, **Yanjie Zhao**, and Haoyu Wang. "Parcel Mismatch Demystified: Addressing a Decade-Old Security Challenge in Android." *ACM CCS 2025*. [[Paper]()]
 
 - Zehao Wu\*, **Yanjie Zhao**\*, and Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*. [[Paper](https://arxiv.org/abs/2506.01631)]
 
