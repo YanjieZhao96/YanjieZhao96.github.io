@@ -56,6 +56,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2026</span> 
 
+- **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *CCS 2026*. [[Paper]()]
+
 - Qiang Ke, **Yanjie Zhao<sup>#</sup>**, Hongjin Leng, Shengming Zhao, and Haoyu Wang. "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks." *FSE 2026*. [[Paper]()]
 
 - Yayi Wang, Shenao Wang, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng, Lizhong Bian, Kan Yu, **Yanjie Zhao**, and Haoyu Wang. "YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group." *FSE 2026, Industry Track*. [[Paper]()]
