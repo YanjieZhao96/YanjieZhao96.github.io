@@ -78,9 +78,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2025</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper](https://arxiv.org/abs/2407.08422)]
+- Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *S&P 2025*. [[Paper](https://arxiv.org/abs/2407.08422)]
 
-- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper]()]
+- Chao Wang\*, **Yanjie Zhao**\*, Jiapeng Deng, and Haoyu Wang. "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs." *S&P 2025*. [[Paper]()]
 
 - Ziwei Yan\*, **Yanjie Zhao**\*, and Haoyu Wang. "VoiceWukong: Benchmarking Deepfake Voice Detection." *USENIX Security 2025*. [[Paper](https://arxiv.org/abs/2409.06348)]
 
