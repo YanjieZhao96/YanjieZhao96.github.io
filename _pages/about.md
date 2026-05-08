@@ -76,6 +76,14 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, and Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper]()]
 
+- Li Lu, Xinyu She, Shengming Zhao, Ningke Li, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "VulnForge: Building Enhanced OSS Vulnerability Datasets via Uncertainty-based Patch Analysis." *Internetware 2026* [[Paper]()]
+
+- Yanzhe Hu, Shenao Wang, Yuhan Tang, Tianyuan Nie, **Yanjie Zhao**, Haoyu Wang. "Unveiling Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities." *Internetware 2026* [[Paper]()]
+
+- Shenao Wang, **Yanjie Zhao**, Zhao Liu, Quanchen Zou, Haoyu Wang. "Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact." *Internetware 2026* [[Paper]()]
+
+- Yinglin Xie, Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Kai Chen, Haoyu Wang. "Understanding Bugs in Vector Database Management Systems." *Internetware 2026* [[Paper]()]
+
 ## <span style="color:grey">2025</span> 
 
 - Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*. [[Paper](https://arxiv.org/abs/2407.08422)]
