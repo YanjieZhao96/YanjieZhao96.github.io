@@ -73,6 +73,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, and Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper]()]
 
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, and Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
+ 
+- Jiale Wu, Tianming Liu, **Yanjie Zhao**, and Haoyu Wang. "Mobile App Analysis in the New Era: Challenges and the Road Ahead." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
 
 - Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, and Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper]()]
 
@@ -83,9 +85,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - Shenao Wang, **Yanjie Zhao**, Zhao Liu, Quanchen Zou, Haoyu Wang. "Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact." *Internetware 2026*. [[Paper]()]
 
 - Yinglin Xie, Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Kai Chen, Haoyu Wang. "Understanding Bugs in Vector Database Management Systems." *Internetware 2026*. [[Paper]()]
-
-- Jiale Wu, Tianming Liu, **Yanjie Zhao**, and Haoyu Wang. "Mobile App Analysis in the New Era: Challenges and the Road Ahead." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
-
 
 ## <span style="color:grey">2025</span> 
 
