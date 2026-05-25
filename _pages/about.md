@@ -33,7 +33,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">Direction 1: AI for SE & Security</span>
 
-- **[LLM4SE Survey]** Xinyi Hou\*, **Yanjie Zhao**\*, et al. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2024. <span style="color:#c00">🚀 **1.7k+ Citations**</span>
+- **[LLM4SE Survey]** Xinyi Hou\*, **Yanjie Zhao**\*, et al. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2024. <span style="color:#c00">🚀 **1.8k+ Citations**</span>
 
 - **[Declarative UI Gen]** Ting Zhou\*, **Yanjie Zhao**\*, et al. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*.
 
@@ -110,7 +110,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Haodong Li, Xiao Cheng, **Yanjie Zhao**, Guosheng Xu, Guoai Xu, and Haoyu Wang. "Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection." *ISSTA 2025*. [[Paper]()]
 
-- Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **500+ Citations**</span>
+- Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **600+ Citations**</span>
 
 - Xinyu She, Yue Liu, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, and Haoyu Wang. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
 
@@ -132,7 +132,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Tianming Liu, Jiapeng Deng, **Yanjie Zhao**, Xiao Chen, Xiaoning Du, Li Li, and Haoyu Wang. "Are iOS Apps Immune to Abusive Advertising Practices?" *FSE 2025, Industry Track*. [[Paper]()]
 
-- Hanxiang Xu, Shenao Wang, Ningke Li, Kailong Wang, **Yanjie Zhao**, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang. "Large Language Models for Cyber Security: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2405.04760)]
+- Hanxiang Xu, Shenao Wang, Ningke Li, Kailong Wang, **Yanjie Zhao**, Kai Chen, Ting Yu, Yang Liu, Haoyu Wang. "Large Language Models for Cyber Security: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2405.04760)] <span style="color:#c00">🚀 **300+ Citations**</span>
 
 - Dianshu Liao, Shidong Pan, Siyuan Yang, **Yanjie Zhao**, Zhenchang Xing, Xiaoyu Sun. "A Comparative Study of Android Performance Issues in Real-world Applications and Literature." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2407.05090)]
 
@@ -156,9 +156,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2024</span> 
 
-- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1.7k+ Citations**</span>
-
 - **Yanjie Zhao**, Xinyi Hou, Shenao Wang, and Haoyu Wang. "LLM App Store Analysis: A Vision and Roadmap." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12737)]
+  
+- Xinyi Hou\*, **Yanjie Zhao**\*, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2308.10620)] <span style="color:#c00">🚀 **1.8k+ Citations**</span>
 
 - Shenao Wang, **Yanjie Zhao**, Xinyi Hou, and Haoyu Wang. "Large Language Model Supply Chain: A Research Agenda." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2024*. [[Paper](https://arxiv.org/abs/2404.12736)]
 
