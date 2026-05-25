@@ -13,7 +13,7 @@ redirect_from:
 
 I completed my PhD at [Monash University](https://www.monash.edu/) in September 2023, where I was supervised by [Prof. Li Li](http://lilicoding.github.io/) and [Prof. John Grundy](https://sites.google.com/site/johncgrundy/). Prior to that, I obtained my Bachelor's degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2019, where I was advised by [Prof. Haoyu Wang](https://howiepku.github.io/).
 
-In March 2024, I joined [Huazhong University of Science and Technology](https://hust.edu.cn/), where my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
+In March 2024, I joined the School of Cyber Science and Engineering, [Huazhong University of Science and Technology](https://hust.edu.cn/), where my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
 
 My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and Software Security, with a focus on building intelligent tools that automate and secure the software lifecycle **across today's fragmented cross-platform and cross-language ecosystems**. I am particularly interested in **Neuro-symbolic AI** as a principled approach to advancing SE and security. My ultimate goal is to create a more unified, efficient, and secure software development paradigm.
 
