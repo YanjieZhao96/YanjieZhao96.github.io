@@ -17,7 +17,7 @@ In March 2024, I joined the School of Cyber Science and Engineering, [Huazhong U
 
 My research operates at the intersection of Large Language Models (LLMs), Software Engineering, and Software Security, with a focus on building intelligent tools that automate and secure the software lifecycle **across today's fragmented cross-platform and cross-language ecosystems**. I am particularly interested in **Neuro-symbolic AI** as a principled approach to advancing SE and security. My ultimate goal is to create a more unified, efficient, and secure software development paradigm.
 
-If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a> or <a href="mailto:carolzhao233@gmail.com">carolzhao233@gmail.com</a>.
+If you would like to reach me, please send an email to <a href="mailto:yanjie_zhao@hust.edu.cn">yanjie_zhao@hust.edu.cn</a>.
 
 
 # 🎉 News
