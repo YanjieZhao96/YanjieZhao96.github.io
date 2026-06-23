@@ -39,13 +39,13 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **[LLM for Fuzzing]** Hanxiang Xu, Wei Ma, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
 
-- **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, and Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
+- **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
 
 ## <span style="color:grey">Direction 2: SE & Security for AI Systems</span>
 
-- **[LLM App Store Security]** Xinyi Hou\*, **Yanjie Zhao**\*, and Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*.
+- **[LLM App Store Security]** Xinyi Hou\*, **Yanjie Zhao**\*, Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*.
 
-- **[LLM Fingerprinting]** Zehao Wu\*, **Yanjie Zhao**\*, and Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*.
+- **[LLM Fingerprinting]** Zehao Wu\*, **Yanjie Zhao**\*, Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*.
 
 - **[LLM Supply Chain Security]** Jian Zhao, Shenao Wang, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
 
@@ -79,6 +79,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - Jiale Wu, Tianming Liu, **Yanjie Zhao**, Haoyu Wang. "Mobile App Analysis in the New Era: Challenges and the Road Ahead." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
 
 - Yan Wang, Xinyi Hou, Junjun Si, **Yanjie Zhao**, Weiguo Lin, Haoyu Wang. "LaQual: An automated framework for LLM app quality evaluation." *Journal of Systems and Software (JSS), 2026*. [[Paper]()]
+
+- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang. "The arts and crafts of android adware across a decade." *Automated Software Engineering (ASEJ), 2026*. [[Paper]()]
 
 - Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper](https://arxiv.org/abs/2605.02256)]
 
