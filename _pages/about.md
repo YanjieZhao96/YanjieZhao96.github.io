@@ -68,17 +68,17 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Shenao Wang, Junjie He, **Yanjie Zhao**, Yayi Wang, Kan Yu, Haoyu Wang. "MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-Symbolic Reasoning." *ASE 2026*. [[Paper](https://arxiv.org/abs/2603.27204)]
 
-- Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2606.11755)]
-
-- Yayi Wang, Shenao Wang, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng, Lizhong Bian, Kan Yu, **Yanjie Zhao**, Haoyu Wang. "YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group." *FSE 2026, Industry Track*. [[Paper](https://arxiv.org/abs/2601.17390)]
-
-- Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
-
 - Yiyang Liu, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "JSTestCraft: Addressing Context Deficits in JavaScript Unit Test Generation via Agentic Multi-Level Contextual Analysis." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()] 
 
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
  
 - Jiale Wu, Tianming Liu, **Yanjie Zhao**, Haoyu Wang. "Mobile App Analysis in the New Era: Challenges and the Road Ahead." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
+
+- Hongzhou Rao, Zikan Dong, **Yanjie Zhao<sup>#</sup>**, Haodong Li, Haoyu Wang. "Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis." *ICSE 2026, Industry Challenge Track*. [[Paper](https://arxiv.org/abs/2606.11755)]
+
+- Yayi Wang, Shenao Wang, Jian Zhao, Shaosen Shi, Ting Li, Yan Cheng, Lizhong Bian, Kan Yu, **Yanjie Zhao**, Haoyu Wang. "YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group." *FSE 2026, Industry Track*. [[Paper](https://arxiv.org/abs/2601.17390)]
+
+- Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
 
 - Yan Wang, Xinyi Hou, Junjun Si, **Yanjie Zhao**, Weiguo Lin, Haoyu Wang. "LaQual: An automated framework for LLM app quality evaluation." *Journal of Systems and Software (JSS), 2026*. [[Paper]()]
 
