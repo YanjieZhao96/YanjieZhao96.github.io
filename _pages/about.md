@@ -80,9 +80,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
 
-- Yan Wang, Xinyi Hou, Junjun Si, **Yanjie Zhao**, Weiguo Lin, Haoyu Wang. "LaQual: An automated framework for LLM app quality evaluation." *Journal of Systems and Software (JSS), 2026*. [[Paper]()]
+- Yan Wang, Xinyi Hou, Junjun Si, **Yanjie Zhao**, Weiguo Lin, Haoyu Wang. "LaQual: An Automated Framework for LLM App Quality Evaluation." *Journal of Systems and Software (JSS), 2026*. [[Paper]()]
 
-- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang. "The arts and crafts of android adware across a decade." *Automated Software Engineering (ASEJ), 2026*. [[Paper]()]
+- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang. "The Arts and Crafts of Android Adware across a Decade." *Automated Software Engineering (ASEJ), 2026*. [[Paper]()]
 
 - Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper](https://arxiv.org/abs/2605.02256)]
 
