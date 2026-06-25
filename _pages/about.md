@@ -66,6 +66,10 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Zhihao Lin, Wei Ma, Mingyi Zhou, **Yanjie Zhao**, Haoyu Wang, Yang Liu, Jun Wang, Li Li. "MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses." *ICSE 2026*. [[Paper]()]
 
+- Minghui Long\*, **Yanjie Zhao**\*, Haoyu Wang. "LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle." *ISSTA 2026*. [[Paper]()]
+
+- Jian Zhao, Shenao Wang, Qingyang Wu, **Yanjie Zhao<sup>#</sup>**, Xiao Cheng, Haoyu Wang. "MalTotal: Cost-Effective and Language-Agnostic Malicious Code Poisoning Detection for Millions of Repositories." *ISSTA 2026*. [[Paper]()]
+
 - Shenao Wang, Junjie He, **Yanjie Zhao**, Yayi Wang, Kan Yu, Haoyu Wang. "MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-Symbolic Reasoning." *ASE 2026*. [[Paper](https://arxiv.org/abs/2603.27204)]
 
 - Yiyang Liu, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "JSTestCraft: Addressing Context Deficits in JavaScript Unit Test Generation via Agentic Multi-Level Contextual Analysis." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()] 
