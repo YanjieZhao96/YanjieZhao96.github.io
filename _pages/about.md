@@ -72,7 +72,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Shenao Wang, Junjie He, **Yanjie Zhao**, Yayi Wang, Kan Yu, Haoyu Wang. "MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-Symbolic Reasoning." *ASE 2026*. [[Paper](https://arxiv.org/abs/2603.27204)]
 
-- Yiyang Liu, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "JSTestCraft: Addressing Context Deficits in JavaScript Unit Test Generation via Agentic Multi-Level Contextual Analysis." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()] 
+- Yiyang Liu, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "JSTestCraft: Addressing Context Deficits in JavaScript Unit Test Generation via Agentic Multi-Level Contextual Analysis." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
+
+- Wuxia Bai, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Haoyu Wang. "The Promise and Pitfalls of GenAI-Powered Mobile Apps: Perspectives from User Reviews." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
 
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
  
