@@ -183,16 +183,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu. "CiD4HMOS: A Solution to HarmonyOS Compatibility Issues." *ASE 2023, Industry Challenge Track*. [[Paper](http.YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
 
-- Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang. "On the Usage-scenario-based Data Minimization in Mini Programs." *The 2023 ACM Workshop on Secure and Trustworthy Superapps*. [[Paper]()]
-
-- Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li. "Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection." *A-Mobile 2023, co-located with ASE 2023*. [[Paper]()]
-
-- Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li. "A First Look at CI/CD Adoptions in Open-Source Android Apps." *A-Mobile 2022, co-located with ASE 2022*. [[Paper](http.YanjieZhao96.github.io/files/liu2022first.pdf)]
-
-- Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein. "Anchor: Locating Android Framework-specific Crashing Faults." *Automated Software Engineering Journal (JASE), 2021*. [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]
-
-- Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy. "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community." *MSR 2020, Data Track*. [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
-
 
 # 📚 Educations
 
