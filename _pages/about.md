@@ -171,12 +171,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy. "Icon2Code: Recommending Code Implementations for Android GUI Components." *Information and Software Technology (IST), 2021*. [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]
 
-- **Yanjie Zhao**, Yue Zhang, Haoyu Wang. "Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins." *The 2023 ACM Workshop on Secure and Trustworthy Superapps*. [[Paper](http.YanjieZhao96.github.io/files/zhao2023potential.pdf)]
-
-- **Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy. "Knowledge Graphing Git Repositories: A Preliminary Study." *SANER 2019, ERA Track*. [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
-
-- **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy. "Code Implementation Recommendation for Android GUI Components." *ICSE 2022, Demonstrations Track*. [[Paper](http.YanjieZhao96.github.io/files/zhao2022code.pdf)]
-
 - Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li. "Automatically Detecting Incompatible Android APIs." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2023*. [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
 
 - Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li. "Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues." *ASE 2022*. [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]
