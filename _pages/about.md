@@ -77,6 +77,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Yiyang Liu, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "JSTestCraft: Addressing Context Deficits in JavaScript Unit Test Generation via Agentic Multi-Level Contextual Analysis." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
 
+- Hanxiang Xu, **Yanjie Zhao<sup>#</sup>**, Junqing Yu, Haoyu Wang. "HGFuzzer: Directed Greybox Fuzzing via Large Language Model." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper](https://arxiv.org/abs/2505.03425)]
+
 - Wuxia Bai, **Yanjie Zhao<sup>#</sup>**, Kai Chen, Haoyu Wang. "The Promise and Pitfalls of GenAI-Powered Mobile Apps: Perspectives from User Reviews." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
 
 - Haonan Chen, Mingyi Zhou, **Yanjie Zhao**, Li Li. "HapFlow: The Taint Analysis Framework for OpenHarmony Apps." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*. [[Paper]()]
