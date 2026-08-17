@@ -27,29 +27,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 
 
-# 📌 Selected Publications
-
-***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
-
-## <span style="color:grey">Direction 1: AI for SE & Security</span>
-
-- **[LLM4SE Survey]** Xinyi Hou\*, **Yanjie Zhao**\*, et al. "Large Language Models for Software Engineering: A Systematic Literature Review." *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2024. <span style="color:#c00">🚀 **2k+ Citations**</span>
-
-- **[Declarative UI Gen]** Ting Zhou\*, **Yanjie Zhao**\*, et al. "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation." *FSE 2025*.
-
-- **[LLM for Fuzzing]** Hanxiang Xu, Wei Ma, Ting Zhou, **Yanjie Zhao**<sup>#</sup>, et al. "CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph." *ICSE 2025, Industry Challenge Track*. <span style="color:#c00">🏅 **ACM SIGSOFT Distinguished Paper Award**</span>
-
-- **[Binary Decompilation]** Xinyu She\*, **Yanjie Zhao**\*, Haoyu Wang. "WaDec: Decompiling WebAssembly Using Large Language Model." *ASE 2024*.
-
-## <span style="color:grey">Direction 2: SE & Security for AI Systems</span>
-
-- **[LLM App Store Security]** Xinyi Hou\*, **Yanjie Zhao**\*, Haoyu Wang. "On the (In)Security of LLM App Stores." *The 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025)*.
-
-- **[LLM Fingerprinting]** Zehao Wu\*, **Yanjie Zhao**\*, Haoyu Wang. "TensorGuard: Gradient-Based Model Fingerprinting for LLM Similarity Detection and Family Classification." *ASE 2025*.
-
-- **[LLM Supply Chain Security]** Jian Zhao, Shenao Wang, **Yanjie Zhao**<sup>#</sup>, et al. "Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs." *ASE 2024, Industry Track*.
-
-  
 # 📝 Full Publications
 
 ***(\* Equal Contribution, <sup>#</sup> Corresponding Author)***
