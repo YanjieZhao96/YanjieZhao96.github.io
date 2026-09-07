@@ -68,6 +68,20 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Hou, Jiahao Han, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Mapping the Landscape of LLM Deployment in the Wild: Prevalence, Patterns, and Perils." *SIGMETRICS 2026*. [[Paper](https://arxiv.org/abs/2505.02502)]
 
+- Yan Wang, Xinyi Hou, Junjun Si, **Yanjie Zhao**, Weiguo Lin, Haoyu Wang. "LaQual: An Automated Framework for LLM App Quality Evaluation." *Journal of Systems and Software (JSS), 2026*. [[Paper]()]
+
+- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang. "The Arts and Crafts of Android Adware across a Decade." *Automated Software Engineering (ASEJ), 2026*. [[Paper]()]
+
+- Zirui Wan, Zhaonan Wu, Xinyi Hou, **Yanjie Zhao<sup>#</sup>**, Pengcheng Xia, Haoyu Wang. "COMMITSUITE: A Comprehensive Benchmark for Commit Classification and Message Generation." *EASE 2026*. [[Paper](https://arxiv.org/abs/2605.02256)]
+
+- Li Lu, Xinyu She, Shengming Zhao, Ningke Li, **Yanjie Zhao<sup>#</sup>**, Haoyu Wang. "VulnForge: Building Enhanced OSS Vulnerability Datasets via Uncertainty-based Patch Analysis." *Internetware 2026*. [[Paper]()]
+
+- Yanzhe Hu, Shenao Wang, Yuhan Tang, Tianyuan Nie, **Yanjie Zhao**, Haoyu Wang. "Unveiling Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities." *Internetware 2026*. [[Paper]()]
+
+- Shenao Wang, **Yanjie Zhao**, Zhao Liu, Quanchen Zou, Haoyu Wang. "Demystifying LLM Supply Chain Vulnerabilities in the Wild: Distribution, Root Cause, and Real-World Impact." *Internetware 2026*. [[Paper](https://arxiv.org/abs/2502.12497)]
+
+- Yinglin Xie, Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Kai Chen, Haoyu Wang. "Understanding Bugs in Vector Database Management Systems." *Internetware 2026*. [[Paper](https://arxiv.org/pdf/2506.02617)]
+
 
 ## <span style="color:grey">2025</span> 
 
@@ -93,7 +107,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Haodong Li, Xiao Cheng, **Yanjie Zhao**, Guosheng Xu, Guoai Xu, Haoyu Wang. "Understanding Model Weaknesses: A Path to Strengthening DNN-Based Android Malware Detection." *ISSTA 2025*. [[Paper]()]
 
-- Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **700+ Citations**</span>
+- Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2503.23278)] <span style="color:#c00">🚀 **800+ Citations**</span>
 
 - Xinyu She, Yue Liu, **Yanjie Zhao**, Yiling He, Li Li, Chakkrit Tantithamthavorn, Zhan Qin, Haoyu Wang. "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2310.17903)]
 
@@ -119,6 +133,16 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Dianshu Liao, Shidong Pan, Siyuan Yang, **Yanjie Zhao**, Zhenchang Xing, Xiaoyu Sun. "A Comparative Study of Android Performance Issues in Real-world Applications and Literature." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2025*. [[Paper](https://arxiv.org/abs/2407.05090)]
 
+- Liu Wang, Shenao Wang, Xinyi Hou, Jian Zhao, Rongxin Wu, Qiao Xiang, **Yanjie Zhao**, Yi Wang. "大语言模型存储机制安全风险综述." *计算机研究与发展, 2025*. [[Paper]()]
+
+- Dongxun Su\*, **Yanjie Zhao**\*, Xinyi Hou, Shenao Wang, Haoyu Wang. "GPT Store Mining and Analysis." *Internetware 2025*. [[Paper](https://arxiv.org/pdf/2405.10210)]
+
+- Ningyuan Li, **Yanjie Zhao<sup>#</sup>**, Shenao Wang, Zehao Wu, Haoyu Wang<sup>#</sup>. "Exploring Typo Squatting Threats in the Hugging Face Ecosystem." *Internetware 2025*. [[Paper]()]
+
+- Wangchenlu Huang, Shenao Wang, **Yanjie Zhao**, Tianxiang Wang, Yuhao Gao, Guosheng Xu, Haoyu Wang. "Seeing is (Not) Believing: The Mirage Card Attack Targeting Online Social Networks." *Internetware 2025*. [[Paper]()]
+
+- **Yanjie Zhao**, Haoyu Wang. "AI Model Genome." *The 1st Workshop on Software Genomics (SWGeno'25), co-located with FSE 2025*. [[Paper]()]
+
 
 ## <span style="color:grey">2024</span> 
 
@@ -138,6 +162,15 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - Xinyi Zheng, Chen Wei, Shenao Wang, **Yanjie Zhao**, Peiming Gao, Yuanchao Zhang, Kailong Wang, Haoyu Wang. "Towards Robust Detection of Open Source Software Supply Chain Poisoning Attacks in Industry Environments." *ASE 2024, Industry Track*. [[Paper](https://arxiv.org/abs/2409.09356)]
 
+- Liangxuan Wu\*, **Yanjie Zhao**\*, Chao Wang, Tianming Liu, Haoyu Wang. "A First Look at LLM-powered Smartphones." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
+
+- Chao Wang, Tianming Liu, **Yanjie Zhao**, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang. "Towards Demystifying Android Adware: Dataset and Payload Location." *A-Mobile 2024, co-located with ASE 2024*. [[Paper]()]
+
+- Xinyi Hou, **Yanjie Zhao**, Shenao Wang, Haoyu Wang. "GPTZoo: A Large-scale Dataset of GPTs for the Research Community." *ASE 2024, The New Ideas and Emerging Results (NIER) Track*. [[Paper](https://arxiv.org/abs/2405.15630)]
+
+- Liangxuan Wu, **Yanjie Zhao**, Xinyi Hou, Tianming Liu, Haoyu Wang. "ChatGPT Chats Decoded: Uncovering Prompt Patterns for Superior Solutions in Software Development Lifecycle." *MSR 2024, Mining Challenge Track*. [[Paper](https://ieeexplore.ieee.org/document/10555800)]
+
+
 ## <span style="color:grey">Papers Published During PhD Studies</span> 
 
 - **Yanjie Zhao**\*, Tianming Liu\*, Haoyu Wang, Yepang Liu, John Grundy, Li Li. "Are Mobile Advertisements in Compliance with App’s Age Group?" *WWW 2023*. [[Paper](http://YanjieZhao96.github.io/files/zhao2023mobile.pdf)]
@@ -152,11 +185,27 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy. "Icon2Code: Recommending Code Implementations for Android GUI Components." *Information and Software Technology (IST), 2021*. [[Paper](http://YanjieZhao96.github.io/files/zhao2021icon2code.pdf)]
 
+- **Yanjie Zhao**, Yue Zhang, Haoyu Wang. "Potential Risks Arising from the Absence of Signature Verification in Miniapp Plugins." *The 2023 ACM Workshop on Secure and Trustworthy Superapps*. [[Paper](http.YanjieZhao96.github.io/files/zhao2023potential.pdf)]
+
+- **Yanjie Zhao**, Haoyu Wang, Lei Ma, Yuxin Liu, Li Li, John Grundy. "Knowledge Graphing Git Repositories: A Preliminary Study." *SANER 2019, ERA Track*. [[Paper](http://YanjieZhao96.github.io/files/zhao2019knowledge.pdf)]
+
+- **Yanjie Zhao**, Li Li, Xiaoyu Sun, Pei Liu, John Grundy. "Code Implementation Recommendation for Android GUI Components." *ICSE 2022, Demonstrations Track*. [[Paper](http.YanjieZhao96.github.io/files/zhao2022code.pdf)]
+
 - Pei Liu, **Yanjie Zhao**, Mattia Fazzini, Haipeng Cai, John Grundy, Li Li. "Automatically Detecting Incompatible Android APIs." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2023*. [[Paper](http://YanjieZhao96.github.io/files/liu2023automatically.pdf)]
 
 - Xiaoyu Sun, Xiao Chen, **Yanjie Zhao**, Pei Liu, John Grundy, Li Li. "Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues." *ASE 2022*. [[Paper](http://YanjieZhao96.github.io/files/sun2022mining.pdf)]
 
 - Tianzhi Ma, **Yanjie Zhao**, Li Li, Liang Liu. "CiD4HMOS: A Solution to HarmonyOS Compatibility Issues." *ASE 2023, Industry Challenge Track*. [[Paper](http.YanjieZhao96.github.io/files/ma2023cid4hmos.pdf)]
+
+- Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang. "On the Usage-scenario-based Data Minimization in Mini Programs." *The 2023 ACM Workshop on Secure and Trustworthy Superapps*. [[Paper]()]
+
+- Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li. "Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection." *A-Mobile 2023, co-located with ASE 2023*. [[Paper]()]
+
+- Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li. "A First Look at CI/CD Adoptions in Open-Source Android Apps." *A-Mobile 2022, co-located with ASE 2022*. [[Paper](http.YanjieZhao96.github.io/files/liu2022first.pdf)]
+
+- Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein. "Anchor: Locating Android Framework-specific Crashing Faults." *Automated Software Engineering Journal (JASE), 2021*. [[Paper](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)]
+
+- Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy. "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community." *MSR 2020, Data Track*. [[Paper](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)]
 
 
 # 📚 Educations
