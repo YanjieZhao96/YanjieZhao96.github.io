@@ -139,7 +139,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 * PC Member (Research Track) -- USENIX Security 2027, ICSE 2027, FSE 2027, FSE 2026, ISSTA 2026, ASE 2026, COMPSAC 2026, FSE 2025, ISSTA 2025, ASE 2025, WWW 2025, IWQoS 2025, ISSTA 2024, WWW 2024, APSEC 2024, MOBILESoft 2024, MOBILESoft 2023
 * PC Member (Other Track) -- ASE 2026 NIER Track, ASE 2026 Industry Showcase Track, APSEC 2025 ERA Track, APSEC 2025 SEIP Track, ASE NIER Track 2024, CCS 2024 Artifact Evaluation
 * Journal Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), ACM Computing Surveys (CSUR), Empirical Software Engineering (EMSE), Journal of Systems and Software (JSS), IEEE Transactions on Reliability
-* Workshop Organizer -- [LLMSC 2027](https://llmsc.github.io/) (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
+* Workshop Organizer -- LLMSC 2027 (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
 * Publicity Chair -- EASE 2026, MOBILESoft 2023
  
 
