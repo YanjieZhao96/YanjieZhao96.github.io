@@ -34,7 +34,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2026</span>
 
-- **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *ACM CCS 2026*. 
+- **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *ACM CCS 2026*.
+- **Yanjie Zhao**, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang. "‘Wait, My Tool Can't Do That?’ A Fine-Grained Capability Study of Modern Static Taint Analyzers." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*.
 - Sheng Cao, Hao Zhou, **Yanjie Zhao**, Tianming Liu, Songzhou Shi, Haoyu Wang. "One Resource to Break Them All: Exploiting Malformed Resources for Permanent Denial-of-Service in Android." *ACM CCS 2026*. 
 - Qiang Ke, **Yanjie Zhao<sup>📧</sup>**, Hongjin Leng, Shengming Zhao, Haoyu Wang. "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks." *FSE 2026*. [📑](https://arxiv.org/abs/2605.14503)
 - Shenao Wang, Zhao Liu, **Yanjie Zhao**, Quanchen Zou, Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. 
