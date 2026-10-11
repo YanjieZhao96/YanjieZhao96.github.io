@@ -26,9 +26,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - **Excited to announce the 1st International Workshop on Large Language Model Supply Chain Analysis ([LLMSC 2025](https://llmsc.github.io/)), co-located with [@ISSTA 2025](https://conf.researchr.org/home/issta-2025)! Join us in Trondheim, Norway.**
 - **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 
-# 📝 Selected Publications
 
-# 📝 Full Publications
+# 📝 Publications
 
 ***( \* Equal Contribution, 📧 Corresponding Author )***
 
