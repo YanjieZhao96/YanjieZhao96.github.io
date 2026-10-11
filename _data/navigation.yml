@@ -5,12 +5,9 @@ main:
 
   - title: "News"
     url: "/#-news"
-
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
     
-  - title: "Full Publications"
-    url: "/#-full-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
