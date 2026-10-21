@@ -33,8 +33,8 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 ## <span style="color:grey">2027</span>
 
-- Zhaonan Wu, **Yanjie Zhao📧**, Zhenpeng Chen, Zheng Wang, Haoyu Wang. "Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation." *ICSE 2027*. [📑](https://arxiv.org/abs/2602.02235)
 - Li Lu, **Yanjie Zhao📧**, Hongzhou Rao, Kechi Zhang, Zhou Yang, Haoyu Wang. "Beyond True or False: Why You Can't Trust the Reasoning in LLM-Generated Vulnerability Reports." *ICSE 2027*. [📑](https://arxiv.org/abs/2602.06687)
+- Zhaonan Wu, **Yanjie Zhao📧**, Zhenpeng Chen, Zheng Wang, Haoyu Wang. "Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation." *ICSE 2027*. [📑](https://arxiv.org/abs/2602.02235)
 
 ## <span style="color:grey">2026</span>
 
