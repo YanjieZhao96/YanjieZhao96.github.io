@@ -35,7 +35,9 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 - **Yanjie Zhao**, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang. "Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies." *ACM CCS 2026*.
 - **Yanjie Zhao**, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang. "‘Wait, My Tool Can't Do That?’ A Fine-Grained Capability Study of Modern Static Taint Analyzers." *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*.
-- Sheng Cao, Hao Zhou, **Yanjie Zhao**, Tianming Liu, Songzhou Shi, Haoyu Wang. "One Resource to Break Them All: Exploiting Malformed Resources for Permanent Denial-of-Service in Android." *ACM CCS 2026*. 
+- Sheng Cao, Hao Zhou, **Yanjie Zhao**, Tianming Liu, Songzhou Shi, Haoyu Wang. "One Resource to Break Them All: Exploiting Malformed Resources for Permanent Denial-of-Service in Android." *ACM CCS 2026*.
+- Zhaonan Wu, **Yanjie Zhao📧**, Zhenpeng Chen, Zheng Wang, Haoyu Wang. "Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation." *ICSE 2026*. [📑](https://arxiv.org/abs/2602.02235)
+- Li Lu, **Yanjie Zhao📧**, Hongzhou Rao, Kechi Zhang, Zhou Yang, Haoyu Wang. "Beyond True or False: Why You Can't Trust the Reasoning in LLM-Generated Vulnerability Reports." *ICSE 2026*. [📑](https://arxiv.org/abs/2602.06687)
 - Qiang Ke, **Yanjie Zhao📧**, Hongjin Leng, Shengming Zhao, Haoyu Wang. "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks." *FSE 2026*. [📑](https://arxiv.org/abs/2605.14503)
 - Shenao Wang, Zhao Liu, **Yanjie Zhao**, Quanchen Zou, Haoyu Wang. "VDBFuzz: Understanding and Detecting Crash Bugs in Vector Database Management Systems." *ICSE 2026*. 
 - Junjie He, Shenao Wang, **Yanjie Zhao**, Xinyi Hou, Zhao Liu, Quanchen Zou, Haoyu Wang. "TaintP2X: Detecting Taint-Style Prompt-to-Anything Injection Vulnerabilities in LLM-Integrated Applications." *ICSE 2026*. 
