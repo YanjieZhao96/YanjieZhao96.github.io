@@ -129,7 +129,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - Shenao Wang, **Yanjie Zhao**, Kailong Wang, Haoyu Wang. "On the Usage-scenario-based Data Minimization in Mini Programs." *The 2023 ACM Workshop on Secure and Trustworthy Superapps*. 
 - Haonan Hu, Yue Liu, **Yanjie Zhao**, Yonghui Liu, Xiaoyu Sun, Chakkrit Tantithamthavorn, Li Li. "Detecting Temporal Inconsistency in Biased Datasets for Android Malware Detection." *A-Mobile 2023, co-located with ASE 2023*. 
 - Pei Liu, Xiaoyu Sun, **Yanjie Zhao**, Yonghui Liu, John Grundy, Li Li. "A First Look at CI/CD Adoptions in Open-Source Android Apps." *A-Mobile 2022, co-located with ASE 2022*. [📑](http://YanjieZhao96.github.io/files/liu2022first.pdf)
-- Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein. "Anchor: Locating Android Framework-specific Crashing Faults." *Automated Software Engineering Journal (ASEJ), 2021*. [📑](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)
+- Pingfan Kong, Li Li, Jun Gao, Timothée Riom, **Yanjie Zhao**, Tegawendé F. Bissyandé, Jacques Klein. "Anchor: Locating Android Framework-specific Crashing Faults." *Automated Software Engineering (ASEJ), 2021*. [📑](http://YanjieZhao96.github.io/files/kong2021anchor.pdf)
 - Pei Liu, Li Li, **Yanjie Zhao**, Xiaoyu Sun, John Grundy. "AndroZooOpen: Collecting Large-scale Open Source Android Apps for the Research Community." *MSR 2020, Data Track*. [📑](http://YanjieZhao96.github.io/files/liu2020androzooopen.pdf)
 
 
@@ -147,7 +147,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 * Journal Reviewer -- ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE), ACM Computing Surveys (CSUR), Empirical Software Engineering (EMSE), Journal of Systems and Software (JSS), IEEE Transactions on Reliability
 * Workshop Organizer -- LLMSC 2027 (co-located with ICSE 2027), LLMSC 2026 (co-located with FSE 2026), LLMapp 2025 (co-located with FSE 2025), LLMSC 2025 (co-located with ISSTA 2025)
 * Publicity Chair -- EASE 2026, MOBILESoft 2023
-* Guest Editor -- Automated Software Engineering Journal (ASEJ)
+* Guest Editor -- Automated Software Engineering (ASEJ)
  
 
 # 🏆 Honors and Awards
