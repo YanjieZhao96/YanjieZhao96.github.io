@@ -33,8 +33,6 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 The complete list is in [Full Publications](#-full-publications).
 
 
-***( \* Equal Contribution, 📧 Corresponding Author )***
-
 
 ## 🔐 Security & Vulnerability Discovery
 
@@ -143,7 +141,7 @@ The complete list is in [Full Publications](#-full-publications).
   </div>
 </div>
 
-<small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small>
+<small>For a broader map of this space, see <a href="https://dl.acm.org/doi/10.1145/3695988">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small>
 
 
 
