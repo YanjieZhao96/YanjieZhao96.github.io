@@ -29,10 +29,14 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 
 # ⭐ Selected Publications
 
+
+The complete list is in [Full Publications](#-publications).
+
+
 ***( \* Equal Contribution, 📧 Corresponding Author )***
 
 
-### 🔐 Security & Vulnerability Discovery
+## 🔐 Security & Vulnerability Discovery
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -42,7 +46,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
     </div>
   </div>
   <div class="paper-box-text">
-    <p><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong><br>
+    <p><a href="doi.org/10.1145/3830454.3832567"><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong></a><br>
     <strong>Yanjie Zhao</strong>, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang</p>
     <p><em>ACM CCS 2026</em></p>
     <ul>
@@ -86,7 +90,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 </div>
 
 
-### 🛠️ Software Engineering & Intelligent Tooling
+## 🛠️ Software Engineering & Intelligent Tooling
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -96,7 +100,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
     </div>
   </div>
   <div class="paper-box-text">
-    <p><strong>“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers</strong><br>
+    <p><a href="https://dl.acm.org/doi/pdf/10.1145/3849705"><strong>“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers</strong></a><br>
     <strong>Yanjie Zhao</strong>, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang</p>
     <p><em>ACM TOSEM 2026</em></p>
     <ul>
@@ -139,9 +143,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
   </div>
 </div>
 
-<p><small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (ACM TOSEM 2024, <span style="color:#c00">🚀 2k+ Citations</span>).</small></p>
-
-<p style="text-align:right; margin-top:1.5em;"><a href="#-publications">See the complete publication list ↓</a></p>
+<p><small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small></p>
 
 
 
