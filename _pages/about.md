@@ -27,6 +27,124 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 - **Excited to announce the 1st International Workshop on LLM App Store Analysis ([LLMapp 2025](https://llmappworkshop.github.io/)), co-located with [@FSE 2025](https://conf.researchr.org/home/fse-2025)! Join us in Trondheim, Norway.**
 
 
+# ⭐ Selected Publications
+
+***( \* Equal Contribution, 📧 Corresponding Author )***
+
+
+### 🔐 Security & Vulnerability Discovery
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Android Security</div>
+      <img src="images/selected/ghosttap.png" alt="GhostTap teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong><br>
+    <strong>Yanjie Zhao</strong>, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang</p>
+    <p><em>ACM CCS 2026</em></p>
+    <ul>
+      <li>Reveals how state inconsistencies between what users see and what Android actually executes can defeat tapjacking defenses.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">LLM Reliability</div>
+      <img src="images/selected/beyond-true-false.png" alt="Beyond True or False teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2602.06687"><strong>Beyond True or False: Why You Can’t Trust the Reasoning in LLM-Generated Vulnerability Reports</strong></a><br>
+    Li Lu, <strong>Yanjie Zhao</strong>📧, Hongzhou Rao, Kechi Zhang, Zhou Yang, Haoyu Wang</p>
+    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.06687">📄 arXiv</a></p>
+    <ul>
+      <li>Goes beyond true/false verdicts to examine the trustworthiness of reasoning in LLM-generated vulnerability reports.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Fuzz Driver Generation</div>
+      <img src="images/selected/ckgfuzzer.png" alt="CKGFuzzer teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2411.11532"><strong>CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph</strong></a><br>
+    Hanxiang Xu, Wei Ma, Ting Zhou, <strong>Yanjie Zhao</strong>📧, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang</p>
+    <p><em>ICSE 2025, Industry Challenge Track</em> · <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> · <a href="https://arxiv.org/abs/2411.11532">📄 arXiv</a></p>
+    <ul>
+      <li>Combines LLMs with code knowledge graphs to generate fuzz drivers for automated testing.</li>
+    </ul>
+  </div>
+</div>
+
+
+### 🛠️ Software Engineering & Intelligent Tooling
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Program Analysis</div>
+      <img src="images/selected/taint-analyzers.png" alt="Static taint analyzers teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers</strong><br>
+    <strong>Yanjie Zhao</strong>, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang</p>
+    <p><em>ACM TOSEM 2026</em></p>
+    <ul>
+      <li>A fine-grained capability study of modern static taint analyzers — what they actually detect, and where they fall short.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Artifact Evaluation</div>
+      <img src="images/selected/artifact-eval.png" alt="Rubric-driven artifact evaluation teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2602.02235"><strong>Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation</strong></a><br>
+    Zhaonan Wu, <strong>Yanjie Zhao</strong>📧, Zhenpeng Chen, Zheng Wang, Haoyu Wang</p>
+    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.02235">📄 arXiv</a></p>
+    <ul>
+      <li>Proposes rubric-driven, agentic artifact evaluation that goes beyond checking whether an artifact simply runs.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">UI Code Generation</div>
+      <img src="images/selected/declarui.png" alt="DeclarUI teaser figure (placeholder)" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2409.11667"><strong>DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation</strong></a><br>
+    Ting Zhou*, <strong>Yanjie Zhao</strong>*, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang</p>
+    <p><em>FSE 2025</em> · <a href="https://arxiv.org/abs/2409.11667">📄 arXiv</a></p>
+    <ul>
+      <li>Automates declarative UI code generation, bridging the gap between UI design and implementation.</li>
+    </ul>
+  </div>
+</div>
+
+<p><small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (ACM TOSEM 2024, <span style="color:#c00">🚀 2k+ Citations</span>).</small></p>
+
+<p style="text-align:right; margin-top:1.5em;"><a href="#-publications">See the complete publication list ↓</a></p>
+
+
+
 # 📝 Publications
 
 ***( \* Equal Contribution, 📧 Corresponding Author )***
