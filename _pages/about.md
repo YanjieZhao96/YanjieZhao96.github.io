@@ -285,6 +285,12 @@ The complete list is in [Full Publications](#-full-publications).
 
 
 
+<div class="visitor-map">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=aWXOLmFIGQWsyqDz9oyKoEBQIJsF7KoJWVoQwqpHvrY&cl=ffffff&w=a"></script>
+</div>
+
+
+
 <p style="text-align:center; color:#7a8288; font-size:0.85em; margin-top:2.5em;">
   © {{ site.time | date: "%Y" }} Yanjie Zhao · Last updated: {{ site.time | date: "%d %b %Y" }}
 </p>
