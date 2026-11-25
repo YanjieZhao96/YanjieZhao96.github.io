@@ -30,7 +30,7 @@ If you would like to reach me, please send an email to <a href="mailto:yanjie_zh
 # ⭐ Selected Publications
 
 
-The complete list is in [Full Publications](#-publications).
+The complete list is in [Full Publications](#-full-publications).
 
 
 ***( \* Equal Contribution, 📧 Corresponding Author )***
