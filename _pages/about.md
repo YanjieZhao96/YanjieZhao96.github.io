@@ -84,7 +84,7 @@ The complete list is in [Full Publications](#-full-publications).
     Hanxiang Xu, Wei Ma, Ting Zhou, <strong>Yanjie Zhao</strong>📧, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang</p>
     <p><em>ICSE 2025, Industry Challenge Track</em> · <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> · <a href="https://arxiv.org/abs/2411.11532">📄 Paper</a></p>
     <ul>
-      <li>Treats fuzz-driver generation as code generation: an LLM agent grounded in an interprocedural code knowledge graph synthesizes drivers, repairs compilation errors, inspects crash reports, and generates input seeds inside the fuzzing loop. On eight open-source projects it improves coverage by 8.73%, cuts manual crash triage by 84.4%.</li>
+      <li>Treats fuzz-driver generation as code generation: an LLM agent grounded in an interprocedural code knowledge graph synthesizes drivers, repairs compilation errors, inspects crash reports, and generates input seeds inside the fuzzing loop.</li>
     </ul>
   </div>
 </div>
@@ -105,7 +105,7 @@ The complete list is in [Full Publications](#-full-publications).
     <strong>Yanjie Zhao</strong>, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang</p>
     <p><em>ACM TOSEM 2026</em> · <a href="https://dl.acm.org/doi/pdf/10.1145/3849705">📄 Paper</a></p>
     <ul>
-      <li>Introduces <strong>xAST</strong>, an 844-pair, 16-dimension benchmark across Python, Go, Java, and JavaScript that pinpoints which language constructs defeat static taint analyzers. Across eight analyzers in 14 tool-language settings, the best pair pass rate is only 61.7%; missed flows (36.1% false-negative-only), not false alarms, are the dominant failure mode, exposing recurring gaps in field/element precision, path feasibility, concurrency, and alias modeling.</li>
+      <li>Introduces an 844-pair, 16-dimension benchmark across Python, Go, Java, and JavaScript that pinpoints which language constructs defeat static taint analyzers. Across 8 static taint analyzers in 14 tool-language settings, the best pair pass rate is only 61.7%, exposing recurring gaps in field/element precision, path feasibility, concurrency, and alias modeling.</li>
     </ul>
   </div>
 </div>
@@ -122,7 +122,7 @@ The complete list is in [Full Publications](#-full-publications).
     Zhaonan Wu, <strong>Yanjie Zhao</strong>📧, Zhenpeng Chen, Zheng Wang, Haoyu Wang</p>
     <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.02235">📄 Paper</a></p>
     <ul>
-      <li>Moves artifact evaluation beyond “does it run”: <strong>ArtifactGuide</strong> turns ACM badge policy, expert calibration, and artifact validation into a structured rubric, while <strong>ArtifactCopilot</strong> gathers review evidence and derives badge decisions. On 60 real artifacts it improves exact badge agreement by 10.55–28.34 percentage points over ACM-policy prompting, and is the only system to complete every repeated run with a review report.</li>
+      <li>Reframes artifact evaluation from “does the artifact run?” to whether it actually meets the badge criteria: <strong>ArtifactGuide</strong> encodes ACM policy, expert practice, and artifact validation into a structured rubric, while <strong>ArtifactCopilot</strong> acts as an agent that collects evidence for each rubric item and produces badge decisions with a review report.</li>
     </ul>
   </div>
 </div>
@@ -139,8 +139,8 @@ The complete list is in [Full Publications](#-full-publications).
     Ting Zhou*, <strong>Yanjie Zhao</strong>*, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang</p>
     <p><em>FSE 2025</em> · <a href="https://arxiv.org/abs/2409.11667">📄 Paper</a></p>
     <ul>
-      <li>Turns UI mockups into declarative code by combining component segmentation, multimodal LLMs, and compiler-feedback-driven repair, with Page Transition Graphs to capture inter-page navigation. On React Native it reaches 96.8% PTG coverage and 98% compilation success—up to +55% visual similarity and +29% compilation success over SOTA MLLMs—and generalizes to Flutter and ArkUI.</li>
-    </ul>
+      <li>Turns UI mockups into declarative code by combining component segmentation, multimodal LLMs, and compiler-feedback-driven repair, with Page Transition Graphs to capture inter-page navigation. Evaluated on React Native, DeclarUI achieves 96.8% PTG coverage and 98% compilation success; its approach also generalizes to Flutter and ArkUI.</li>
+   </ul>
   </div>
 </div>
 
