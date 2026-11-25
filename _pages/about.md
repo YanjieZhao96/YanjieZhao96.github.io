@@ -36,19 +36,21 @@ The complete list is in [Full Publications](#-full-publications).
 
 ## 🔐 Software Security & Vulnerability Discovery
 
+*Finding and explaining exploitable flaws in software systems, and building the analyses and fuzzers that uncover them.*
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
       <div class="badge">Android Security</div>
-      <img src="images/selected/ghosttap.png" alt="GhostTap teaser figure (placeholder)" width="100%">
+      <img src="images/selected/ghosttap.png" alt="GhostTap teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
-    <p><a href="doi.org/10.1145/3830454.3832567"><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong></a><br>
+    <p><a href="https://doi.org/10.1145/3830454.3832567"><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong></a><br>
     <strong>Yanjie Zhao</strong>, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang</p>
-    <p><em>ACM CCS 2026</em></p>
+    <p><em>ACM CCS 2026</em> · <a href="https://doi.org/10.1145/3830454.3832567">📄 DOI</a></p>
     <ul>
-      <li>Reveals how state inconsistencies between what users see and what Android actually executes can defeat tapjacking defenses.</li>
+      <li>Exploits inconsistent window-state tracking across Binder IPC, window management, animations, and Picture-in-Picture to create invisible “phantom windows” that capture touches. Zero-permission apps bypass every existing tapjacking defense on Android 12–16, yielding three Google-confirmed zero-day CVEs.</li>
     </ul>
   </div>
 </div>
@@ -57,15 +59,15 @@ The complete list is in [Full Publications](#-full-publications).
   <div class="paper-box-image">
     <div>
       <div class="badge">LLM Reliability</div>
-      <img src="images/selected/beyond-true-false.png" alt="Beyond True or False teaser figure (placeholder)" width="100%">
+      <img src="images/selected/beyond-true-false.png" alt="Beyond True or False teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2602.06687"><strong>Beyond True or False: Why You Can’t Trust the Reasoning in LLM-Generated Vulnerability Reports</strong></a><br>
     Li Lu, <strong>Yanjie Zhao</strong>📧, Hongzhou Rao, Kechi Zhang, Zhou Yang, Haoyu Wang</p>
-    <p><em>ICSE 2027</em></p>
+    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.06687">📄 arXiv</a></p>
     <ul>
-      <li>Goes beyond true/false verdicts to examine the trustworthiness of reasoning in LLM-generated vulnerability reports.</li>
+      <li>Finds that 30.3% of correct LLM vulnerability verdicts still rest on hallucinated or causally flawed reasoning. Builds a reasoning-level benchmark over 149 CWE types, identifies 12 failure modes across 10 LLMs, and proposes <strong>DagVul</strong>—DAG-structured reasoning trained with verifiable-reward RL—improving reasoning F1 by 13.3% on average.</li>
     </ul>
   </div>
 </div>
@@ -74,35 +76,36 @@ The complete list is in [Full Publications](#-full-publications).
   <div class="paper-box-image">
     <div>
       <div class="badge">Fuzz Driver Generation</div>
-      <img src="images/selected/ckgfuzzer.png" alt="CKGFuzzer teaser figure (placeholder)" width="100%">
+      <img src="images/selected/ckgfuzzer.png" alt="CKGFuzzer teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2411.11532"><strong>CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph</strong></a><br>
     Hanxiang Xu, Wei Ma, Ting Zhou, <strong>Yanjie Zhao</strong>📧, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang</p>
-    <p><em>ICSE 2025, Industry Challenge Track</em> <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> </p>
+    <p><em>ICSE 2025, Industry Challenge Track</em> · <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> · <a href="https://arxiv.org/abs/2411.11532">📄 arXiv</a></p>
     <ul>
-      <li>Combines LLMs with code knowledge graphs to generate fuzz drivers for automated testing.</li>
+      <li>Treats fuzz-driver generation as code generation: an LLM agent grounded in an interprocedural code knowledge graph synthesizes drivers, repairs compilation errors, inspects crash reports, and generates input seeds inside the fuzzing loop. On eight open-source projects it improves coverage by 8.73%, cuts manual crash triage by 84.4%, and finds 11 real bugs (9 previously unreported).</li>
     </ul>
   </div>
 </div>
 
-
 ## 🛠️ Software Engineering & Intelligent Tooling
+
+*Understanding, evaluating, and automating the tools developers and researchers rely on.*
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
       <div class="badge">Program Analysis</div>
-      <img src="images/selected/taint-analyzers.png" alt="Static taint analyzers teaser figure (placeholder)" width="100%">
+      <img src="images/selected/taint-analyzers.png" alt="Static taint analyzers teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
-    <p><a href="https://dl.acm.org/doi/pdf/10.1145/3849705"><strong>“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers</strong></a><br>
+    <p><a href="https://doi.org/10.1145/3849705"><strong>“Wait, My Tool Can’t Do That?” A Fine-Grained Capability Study of Modern Static Taint Analyzers</strong></a><br>
     <strong>Yanjie Zhao</strong>, Shenao Wang, Jian Zhao, Junjie He, Kan Yu, Yayi Wang, Lizhong Bian, Yan Cheng, Haoyu Wang</p>
-    <p><em>ACM TOSEM 2026</em></p>
+    <p><em>ACM TOSEM 2026</em> · <a href="https://dl.acm.org/doi/pdf/10.1145/3849705">📄 PDF</a></p>
     <ul>
-      <li>A fine-grained capability study of modern static taint analyzers — what they actually detect, and where they fall short.</li>
+      <li>Introduces <strong>xAST</strong>, an 844-pair, 16-dimension benchmark across Python, Go, Java, and JavaScript that pinpoints which language constructs defeat static taint analyzers. Across eight analyzers in 14 tool-language settings, the best pair pass rate is only 61.7%; missed flows (36.1% false-negative-only), not false alarms, are the dominant failure mode, exposing recurring gaps in field/element precision, path feasibility, concurrency, and alias modeling.</li>
     </ul>
   </div>
 </div>
@@ -111,15 +114,15 @@ The complete list is in [Full Publications](#-full-publications).
   <div class="paper-box-image">
     <div>
       <div class="badge">Artifact Evaluation</div>
-      <img src="images/selected/artifact-eval.png" alt="Rubric-driven artifact evaluation teaser figure (placeholder)" width="100%">
+      <img src="images/selected/artifact-eval.png" alt="Rubric-driven artifact evaluation teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2602.02235"><strong>Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation</strong></a><br>
     Zhaonan Wu, <strong>Yanjie Zhao</strong>📧, Zhenpeng Chen, Zheng Wang, Haoyu Wang</p>
-    <p><em>ICSE 2027</em></p>
+    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.02235">📄 arXiv</a></p>
     <ul>
-      <li>Proposes rubric-driven, agentic artifact evaluation that goes beyond checking whether an artifact simply runs.</li>
+      <li>Moves artifact evaluation beyond “does it run”: <strong>ArtifactGuide</strong> turns ACM badge policy, expert calibration, and artifact validation into a structured rubric, while <strong>ArtifactCopilot</strong> gathers review evidence and derives badge decisions. On 60 real artifacts it improves exact badge agreement by 10.55–28.34 percentage points over ACM-policy prompting, and is the only system to complete every repeated run with a review report.</li>
     </ul>
   </div>
 </div>
@@ -128,20 +131,21 @@ The complete list is in [Full Publications](#-full-publications).
   <div class="paper-box-image">
     <div>
       <div class="badge">UI Code Generation</div>
-      <img src="images/selected/declarui.png" alt="DeclarUI teaser figure (placeholder)" width="100%">
+      <img src="images/selected/declarui.png" alt="DeclarUI teaser figure" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2409.11667"><strong>DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation</strong></a><br>
     Ting Zhou*, <strong>Yanjie Zhao</strong>*, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang</p>
-    <p><em>FSE 2025</em></p>
+    <p><em>FSE 2025</em> · <a href="https://arxiv.org/abs/2409.11667">📄 arXiv</a></p>
     <ul>
-      <li>Automates declarative UI code generation, bridging the gap between UI design and implementation.</li>
+      <li>Turns UI mockups into declarative code by combining component segmentation, multimodal LLMs, and compiler-feedback-driven repair, with Page Transition Graphs to capture inter-page navigation. On React Native it reaches 96.8% PTG coverage and 98% compilation success—up to +55% visual similarity and +29% compilation success over SOTA MLLMs—and generalizes to Flutter and ArkUI.</li>
     </ul>
   </div>
 </div>
 
-<small>For a broader map of this space, see <a href="https://dl.acm.org/doi/10.1145/3695988">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small>
+
+<p><small>For a broader map of this space, see <a href="https://dl.acm.org/doi/10.1145/3695988">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small></p>
 
 
 
