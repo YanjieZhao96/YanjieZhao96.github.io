@@ -284,7 +284,10 @@ The complete list is in [Full Publications](#-full-publications).
 * 2016 - China National Scholarship.
 
 
-<img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<p style="text-align:center; color:#7a8288; font-size:0.85em; margin-top:2.5em;">
+  © {{ site.time | date: "%Y" }} Yanjie Zhao · Last updated: {{ site.time | date: "%d %b %Y" }}
+</p>
 
 <br>
 <br>
