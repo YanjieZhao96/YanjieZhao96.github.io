@@ -48,7 +48,7 @@ The complete list is in [Full Publications](#-full-publications).
   <div class="paper-box-text">
     <p><a href="https://doi.org/10.1145/3830454.3832567"><strong>Demystifying GhostTap: Breaking Android Tapjacking Defenses by Exploiting State Inconsistencies</strong></a><br>
     <strong>Yanjie Zhao</strong>, Zhiyuan Yang, Weimin Cheng, Sheng Cao, Hao Zhou, Haoyu Wang</p>
-    <p><em>ACM CCS 2026</em> · <a href="https://doi.org/10.1145/3830454.3832567">📄 Paper</a></p>
+    <p><em>ACM CCS 2026</em> · <a href="https://doi.org/10.1145/3830454.3832567">📄 Paper</a> · <a href="https://ghosttap-android.github.io/">🌐 Website</a></p>
     <ul>
       <li>Exploits inconsistent window-state tracking across Binder IPC, window management, animations, and Picture-in-Picture to create invisible “phantom windows” that capture touches. Zero-permission apps bypass every existing tapjacking defense on Android 12–16.</li>
     </ul>
