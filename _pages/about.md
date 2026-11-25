@@ -34,7 +34,7 @@ The complete list is in [Full Publications](#-full-publications).
 
 
 
-## 🔐 Security & Vulnerability Discovery
+## 🔐 Software Security & Vulnerability Discovery
 
 <div class="paper-box">
   <div class="paper-box-image">
