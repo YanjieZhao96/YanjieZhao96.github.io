@@ -147,7 +147,7 @@ The complete list is in [Full Publications](#-publications).
 
 
 
-# 📝 Publications
+# 📝 Full Publications
 
 ***( \* Equal Contribution, 📧 Corresponding Author )***
 
