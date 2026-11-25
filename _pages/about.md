@@ -65,7 +65,7 @@ The complete list is in [Full Publications](#-publications).
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2602.06687"><strong>Beyond True or False: Why You Can’t Trust the Reasoning in LLM-Generated Vulnerability Reports</strong></a><br>
     Li Lu, <strong>Yanjie Zhao</strong>📧, Hongzhou Rao, Kechi Zhang, Zhou Yang, Haoyu Wang</p>
-    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.06687">📄 arXiv</a></p>
+    <p><em>ICSE 2027</em></p>
     <ul>
       <li>Goes beyond true/false verdicts to examine the trustworthiness of reasoning in LLM-generated vulnerability reports.</li>
     </ul>
@@ -82,7 +82,7 @@ The complete list is in [Full Publications](#-publications).
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2411.11532"><strong>CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph</strong></a><br>
     Hanxiang Xu, Wei Ma, Ting Zhou, <strong>Yanjie Zhao</strong>📧, Kai Chen, Qiang Hu, Yang Liu, Haoyu Wang</p>
-    <p><em>ICSE 2025, Industry Challenge Track</em> · <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> · <a href="https://arxiv.org/abs/2411.11532">📄 arXiv</a></p>
+    <p><em>ICSE 2025, Industry Challenge Track</em> <span style="color:#c00">🏅 ACM SIGSOFT Distinguished Paper Award</span> </p>
     <ul>
       <li>Combines LLMs with code knowledge graphs to generate fuzz drivers for automated testing.</li>
     </ul>
@@ -119,7 +119,7 @@ The complete list is in [Full Publications](#-publications).
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2602.02235"><strong>Beyond Running Code: Rubric-Driven Agentic Artifact Evaluation</strong></a><br>
     Zhaonan Wu, <strong>Yanjie Zhao</strong>📧, Zhenpeng Chen, Zheng Wang, Haoyu Wang</p>
-    <p><em>ICSE 2027</em> · <a href="https://arxiv.org/abs/2602.02235">📄 arXiv</a></p>
+    <p><em>ICSE 2027</em></p>
     <ul>
       <li>Proposes rubric-driven, agentic artifact evaluation that goes beyond checking whether an artifact simply runs.</li>
     </ul>
@@ -136,14 +136,14 @@ The complete list is in [Full Publications](#-publications).
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2409.11667"><strong>DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation</strong></a><br>
     Ting Zhou*, <strong>Yanjie Zhao</strong>*, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang</p>
-    <p><em>FSE 2025</em> · <a href="https://arxiv.org/abs/2409.11667">📄 arXiv</a></p>
+    <p><em>FSE 2025</em></p>
     <ul>
       <li>Automates declarative UI code generation, bridging the gap between UI design and implementation.</li>
     </ul>
   </div>
 </div>
 
-<p><small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small></p>
+<small>For a broader map of this space, see <a href="https://arxiv.org/abs/2308.10620">Large Language Models for Software Engineering: A Systematic Literature Review</a> (<span style="color:#c00">🚀 2k+ Citations</span>).</small>
 
 
 
